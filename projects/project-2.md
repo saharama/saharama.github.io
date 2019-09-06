@@ -2,16 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Microwave Circuit Design and Fabrication
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-04-19
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Microwave Office
+
+summary: Designed and fabricated a microstrip stepped low-pass filter for EE473 Microwave Engineering.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
