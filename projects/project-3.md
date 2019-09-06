@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Just Another Love Story
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
+  - C++
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: My EE205 group developed an RPG using C++ and SFML graphics.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
