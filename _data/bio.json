@@ -86,21 +86,22 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawaii",
+      "position": "Student Data Center Tech",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-02-03",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Works as part of a team to maintain the two major data centers at UH Manoa",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Installs network devices, equipment, and connections throughout the data centers",
+        "Uses data center management software to keep track of network devices and connections",
+        "Manages RMA cases for faulty electronics"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Burns & McDonnell Engineering Company",
+      "position": "Electrical Department Intern",
+      "website": "https://www.burnsmcd.com",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
@@ -139,16 +140,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chancellor's Scholarship",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii",
+      "summary": "4-year Merit Scholarship awarded to high-achieving incoming UH Manoa freshmen."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eagle Scout",
+      "date": "2013",
+      "awarder": "Boy Scouts of America",
+      "summary": "My Eagle Scout service project consisted of organizing and leading a team of over 30 people to rebuild a rotten wooden ramp for the Saint Francis Hospice Care program in Nuuanu. We also re-painted the ramp and its respective cottage, which now can be used for patient counseling."
     }
   ],
   "references": [
