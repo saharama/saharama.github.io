@@ -54,21 +54,19 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows 10",
+        "Kali Linux",
+        "Wireshark",
+        "Aircrack-ng"
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microwave Office (MWO)"
       ]
     }
   ],
@@ -110,7 +108,20 @@
         "Updated and reviewed one-line diagram with medium and low voltage cables for microgrid",
         "Designed controls one-line and network architecture details for SCADA monitoring system"
       ]
-    }
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "EE Grader II",
+      "website": "http://www.ee.hawaii.edu/",
+      "startDate": "2019-08-20",
+      "endDate": "2019-12-14",
+      "summary": "Intern in the Electrical Department for the Aviation and Federal group.",
+      "highlights": [
+        "Prepared duct bank details and grounding diagram for medium voltage switchgear of microgrid",
+        "Updated and reviewed one-line diagram with medium and low voltage cables for microgrid",
+        "Designed controls one-line and network architecture details for SCADA monitoring system"
+      ]
+    }    
   ],
   "volunteer": [
     {
