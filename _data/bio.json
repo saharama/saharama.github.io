@@ -102,39 +102,40 @@
       "company": "Burns & McDonnell Engineering Company",
       "position": "Electrical Department Intern",
       "website": "https://www.burnsmcd.com",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2019-05-29",
+      "endDate": "2019-08-16",
+      "summary": "Intern in the Electrical Department for the Aviation and Federal group.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Prepared duct bank details and grounding diagram for medium voltage switchgear of microgrid",
+        "Updated and reviewed one-line diagram with medium and low voltage cables for microgrid",
+        "Designed controls one-line and network architecture details for SCADA monitoring system"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Engineering Network",
+      "website": "www.enuhm.com",
+      "position": "Director of Multimedia and Publications",
+      "startDate": "2016-08-25",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Founding board member of interdisciplinary engineering club, focusing on unique social networking opportunities with other colleges and organizations.",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "University of Hawaii Band",
+      "website": "http://www.uhbands.org/marching-band.html",
+      "position": "Trumpet Section Leader (2017, 2019)",
+      "startDate": "2016-08-25",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
