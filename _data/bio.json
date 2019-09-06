@@ -31,19 +31,21 @@
     {
       "name": "Power Systems",
       "keywords": [
-        "microgrid",
-        "renewable"
+        "Microgrids",
+        "Renewable Energy"
       ]
     },
     {
-      "name": "Radio Frequency (RF) Communication",
+      "name": "Radio Frequency Communication",
       "keywords": [
-          "microwave",
+          "RF",
+          "Microwave"
       ]
     },
     {
       "name": "Network Security",
       "keywords": [
+          "Wireless Networking"
       ]
     }
   ],
