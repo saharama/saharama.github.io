@@ -41,7 +41,7 @@ It was a great learning experience, and it was very fun to work together on a cr
 
 <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
 
-Sprite Machine Source: <a href="https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/"><i class="large github icon "></i>sanderfrenken Sprite Generator/</a>
+Sprite Machine Source: <a href="https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/"><i class="large github icon "></i>sanderfrenken Sprite_Generator</a>
 
 Clean Project Repo: <a href="https://github.com/saharama/EE205_FinalProject"><i class="large github icon "></i>saharama/EE205_FinalProject/</a>
 
