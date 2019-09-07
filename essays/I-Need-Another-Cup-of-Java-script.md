@@ -8,8 +8,6 @@ labels:
   - Javascript Basics
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
 ## Prompt 
 
 So. What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
@@ -69,6 +67,8 @@ Thanks to the practice WODs, I can deal with this frustration. I take a deep bre
 
 ## My Last Cup of Joe
 
-I will make sure to digest the caffeine and syntax of this useful and flexible language. I am looking forward to the object-oriented Javascript module next week
+
+
+I will make sure to digest the syntax and associated caffiene of this useful and flexible language. I am looking forward to the object-oriented Javascript module next week.
 
 
