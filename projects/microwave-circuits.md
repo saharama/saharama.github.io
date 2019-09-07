@@ -17,9 +17,11 @@ summary: Designed and fabricated a microstrip stepped low-pass filter for EE473 
 
 In my *EE473 Microwave Engineering* class, I did many microwave circuit simulations on an application, Microwave Office. I looked at the S-parameters of circuits, which correspond to the electromagnetic waves that enter and leave the circuit elements.
 
+Our team worked together to collectively design three types of microstrip filters: Stubbed Low-pass, Stepped Low-pass, and Coupled Band-pass. In our simulations, we had to account for the expected discontinuities of our proposed circuits. Based on our compensated values and calculations, we decided that the stepped low-pass filter would be the best circuit for our group to make.
+
 One of the highlights of this class was being able to fabricate a filter. A filter in electronics will stop all signals from being received, except those at a certain frequency. By using copper tape, we cut our filter to the specifications we designed and mounted the copper on a substrate. We then soldered on SMA connectors for analysis with the network analyzer.
 
-The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but it was very fun and interesting to get to do hand-ons learning in such a specialized field.
+The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but the whole experience was very enjoyable and interesting to get to do hand-ons learning in such a specialized field.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/microwave-filterAnalysis.jpg">
