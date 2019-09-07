@@ -40,6 +40,19 @@ The practice WODs, especially the bWOD, showed that there were large gaps in my 
 
 I did both practice WODs. I was able to solve the Practice WOD #1 on my first try in 05:33:04. My first try was very "hard-coded" in the sense that I had not defined a function. I simply used a for loop in my code and changed the values. Based on the feedback from my instructor, I learned the value of code flexibility when creating functions to solve problems. I repeated the practice WODs with a fresh mind, and I was able to solve the problem a few seconds faster every time.
 
+```js
+let sum = 0;
+
+for(let i = 1; i < 1000; i++) {
+	if(i % 3 == 0 || i % 5 == 0) {
+  	sum += i;
+  }
+}
+
+console.log(sum);
+```
+
+
 My TA, Branden Ogata, holds weekly practice sessions. His WODs are called the bWODs. The bWOD this week dealt with sorting through arrays and comparing values.
 
 It took me a long time to finish Practice WOD #2
