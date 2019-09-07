@@ -24,6 +24,10 @@ The game begins with a boy named Nick. Nick's girlfriend leaves him for her evil
 
 After navigating through the maze, Nick must collect the items and help strangers in need out. He also needs to defeat a mini-boss on every level. On the last level, Nick must face a final, epic battle with Chad!
 
+Here is a video of normal gameplay:
+<div class="ui embed" data-source="youtube" data-id="re_hiU2Ni3E" >
+</div>
+
 <hr>
 
 Our game is one big state-machine. Different game states are linked together and the game machine will change states depedning on whether or not certain conditions are fulfilled. There are map states where you walk around to solve puzzles, and there are battle states that resemble that of Pokemon.
