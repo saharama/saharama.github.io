@@ -12,6 +12,8 @@ labels:
 
 Aloha, my name is Matthew Sahara! I am studying Electrical Engineering, Electro-Physics at the University of Hawaii at Manoa. I have taken courses in the C and C++ languages. Last week was my first introduction to the Javascript language. It seemed very intuitive, and the exercises on freeCodeCamp helped to boost my confidence, and subsequently my ego, in my Javascript capabilities. I could not have been more wrong!
 
+If you want to take a look at my final C++ project, here is the link: [My Github C++ Repo](http://github.com/saharama/EE205_FinalProject).
+
 ## Javascript versus My Native Tongue
 
 I thought Javascript was my passion, but I do not think it is anymore.
