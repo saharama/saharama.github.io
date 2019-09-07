@@ -15,12 +15,8 @@ summary: My EE205 group developed an RPG using C++ and SFML graphics.
 
 My group of three used C++ and object-oriented techniques to make a Role-Playing Game (RPG). We implemented the SFML library for simple game graphics and audio.
 
-</hr>
 
-<div class="ui small rounded images">
-    <img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
-    <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
-</div>
+<img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
 
 <hr>
 
@@ -38,6 +34,7 @@ We did a lot of "hard-coding" and defeinitely should have implemented more objec
 
 It was a great learning experience, and it was very fun to work together on a creative project!
 
+<img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
 
 Sprite Machine Source: <a href="https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/"><i class="large github icon "></i>sanderfrenken Sprite Generator/</a>
 
