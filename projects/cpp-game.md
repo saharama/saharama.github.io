@@ -18,10 +18,8 @@ My group of three used C++ and object-oriented techniques to make a Role-Playing
 </hr>
 
 <div class="ui small rounded images">
-  <div class="center">
-    <img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
-    <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
-   </div>
+    <img class="ui image" class="center" src="{{ site.baseurl }}/images/cpp-title.png">
+    <img class="ui image" class="center" src="{{ site.baseurl }}/images/cpp-gameover.png">
 </div>
 
 <hr>
