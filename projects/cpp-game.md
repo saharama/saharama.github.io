@@ -5,7 +5,7 @@ image: images/cpp-gameWin.png
 title: Just Another Love Story
 permalink: projects/cpp-game
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-05-12
 labels:
   - C++
   - GitHub
