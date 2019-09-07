@@ -11,9 +11,10 @@ labels:
   - GitHub
 summary: My EE205 group developed an RPG using C++ and SFML graphics.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
-<img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
+  <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
+</div>
 
 To give you a flavor of the game, here is an excerpt from one run:
 
