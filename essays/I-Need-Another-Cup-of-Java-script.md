@@ -18,15 +18,15 @@ What about athletic software engineering? Did you find the practice WODs to be u
 
 ## Introduction
 
-I am studying Electrical Engineering, Electro-Physics at the University of Hawaii at Manoa. I have taken courses in the C and C++ languages. Last week was my first introduction to the Javascript language. It seemed very intuitive, and the exercises on freeCodeCamp helped to boost my confidence, and subsequently my ego, in my Javascript capabilities. I could not have been more wrong.
+Aloha, my name is Matthew Sahara! I am studying Electrical Engineering, Electro-Physics at the University of Hawaii at Manoa. I have taken courses in the C and C++ languages. Last week was my first introduction to the Javascript language. It seemed very intuitive, and the exercises on freeCodeCamp helped to boost my confidence, and subsequently my ego, in my Javascript capabilities. I could not have been more wrong!
 
 ## Javascript versus My Native Tongue
 
 I thought Javascript was my passion, but I do not think it is anymore.
 
-From a software engineering perspective, it seems to me that Javascript is very useful. Being a high-level language, it is relatively easy to turn thoughts into code. It is also very flexible and seemingly intuitive.
+Just kidding. From a software engineering perspective, it seems to me that Javascript is very useful. Being a high-level language, it is relatively easy to turn thoughts into code. It is also very flexible and seemingly intuitive.
 
-Coming from a background in C and C++, the syntax in Javascript was relatively to catch on to. However, Javascript seems to have a significant amount of internal functions and operators, compared to C++.
+Coming from a background in C and C++, the syntax in Javascript was relatively easy to catch on to. However, Javascript seems to have a significant amount of internal functions and operators, compared to C++. It also treats certain elements, such as strings, very differently, which can cause personal confusion and distress during Javascript oriented WODs.
 
 ## My Software Marathon Training
 
@@ -40,6 +40,7 @@ The practice WODs, especially the bWOD, showed that there were large gaps in my 
 
 I did both practice WODs. I was able to solve the Practice WOD #1 on my first try in 05:33:04. My first try was very "hard-coded" in the sense that I had not defined a function. I simply used a for loop in my code and changed the values. Based on the feedback from my instructor, I learned the value of code flexibility when creating functions to solve problems. I repeated the practice WODs with a fresh mind, and I was able to solve the problem a few seconds faster every time.
 
+The code from my first attempt at the Practice WOD #1 is down below. 
 ```js
 let sum = 0;
 
@@ -52,13 +53,12 @@ for(let i = 1; i < 1000; i++) {
 console.log(sum);
 ```
 
-
-My TA, Branden Ogata, holds weekly practice sessions. His WODs are called the bWODs. The bWOD this week dealt with sorting through arrays and comparing values.
+My TA, Branden Ogata, holds weekly practice sessions. His WODs are called the bWODs. The bWOD this week dealt with sorting through arrays and comparing values. I was not able to finish on my first attempt. I was confused with the syntax of arrays in Javascript. After talking to Branden, we figured out that my code was not the biggest problem, but my computer was not functioning properly. I thought I was quite bad at Javascript, but the console was not giving any output, not even an error message. Later, I went home and a 30-minute Windows 10 update was able to fix my computer! I am glad I caught this problem during a bWOD and not during the actual exam.
 
 It took me a long time to finish Practice WOD #2
 
 ## The Final Countdown
 
-I was having a good day, and I felt as read as I would ever be for my first ever WOD. I walked into class, joked around with my friends, and Professor 
+I was having a good day, and I felt as read as I would ever be for my first ever WOD. I walked into class, joked around with my friends, and Professor Johnson was
 
 
