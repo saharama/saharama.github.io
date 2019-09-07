@@ -24,9 +24,10 @@ The game begins with a boy named Nick. Nick's girlfriend leaves him for her evil
 
 After navigating through the maze, Nick must collect the items and help strangers in need out. He also needs to defeat a mini-boss on every level. On the last level, Nick must face a final, epic battle with Chad!
 
-Here is a video of normal gameplay:
+Here is a video of normal gameplay: 
 <div class="ui embed" data-source="youtube" data-id="re_hiU2Ni3E" >
 </div>
+(Note: Audio is omitted in the above video.)
 
 <hr>
 
