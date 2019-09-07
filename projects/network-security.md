@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uas-banquet.jpg
-title: Drone Traffic Profiling and Protocol Reverse Engineering
+title: Traffic Profiling and Protocol Reverse Engineering
 permalink: projects/uas-security
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-09
