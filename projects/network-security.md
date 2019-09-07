@@ -19,12 +19,16 @@ summary: My team is developing a toolset to classify and profile Unmanned Aerial
   <img class="ui image" src="../images/uas-main.JPG">
 </div>
 
+<hr>
+
 I am currently analyzing wireless network traffic and adapting current software using packet analysis for UAS classification and profiling for my senior design project.
 
 • Capturing wireless network traffic from drone using aircrack-ng suite
 • Decrypting WPA2 packets using Wireshark
 • Introduced to Netzob library for interpretation and reverse engineering of wireless packets
 • Modifying Python scripts for statistical analysis of wireless data following the MAVLink protocol
+
+<hr>
 
 In previous semesters with this project, I gained familiarity with the Aircrack-ng suite and related tools using the Kali Linux operating system. (ENGR296/396 credit)
 • Cracked WEP, WPA/2 encryption with aircrack-ng suite.
