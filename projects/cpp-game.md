@@ -11,8 +11,16 @@ labels:
   - GitHub
 summary: My EE205 group developed an RPG using C++ and SFML graphics.
 ---
+<hr>
 
 My group of three used C++ and object-oriented techniques to make a Role-Playing Game (RPG). We implemented the SFML library for simple game graphics and audio.
+
+</hr>
+
+<div class="ui small rounded images">
+  <img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
+  <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
+</div>
 
 <hr>
 
@@ -22,6 +30,8 @@ After navigating through the maze, Nick must collect the items and help stranger
 
 </hr>
 
+<hr>
+
 Our game is one big state-machine. Different game states are linked together and the game machine will change states depedning on whether or not certain conditions are fulfilled. There are map states where you walk around to solve puzzles, and there are battle states that resemble that of Pokemon.
 
 We used a sprite machine on Github to produce 8-bit style characters. The backgrounds were hand-drawn because of the limitations of the graphics library; however the different maps and collision files were coded and connected via inheritance. 
@@ -30,10 +40,7 @@ We did a lot of "hard-coding" and defeinitely should have implemented more objec
 
 It was a great learning experience, and it was very fun to work together on a creative project!
 
-<div class="ui small rounded images">
-  <img class="ui image" src="{{ site.baseurl }}/images/cpp-title.png">
-  <img class="ui image" src="{{ site.baseurl }}/images/cpp-gameover.png">
-</div>
+</hr>
 
 Sprite Machine Source: <a href="https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/"><i class="large github icon "></i>sanderfrenken Sprite Generator/</a>
 
