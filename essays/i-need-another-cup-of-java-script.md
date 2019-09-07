@@ -24,7 +24,9 @@ Coming from a background in C and C++, the syntax in Javascript was relatively e
 
 ## My Software Marathon Training
 
-I can run 2-miles in 14-minutes, but these "athletic" Workouts of the Day (WODs) have me out of breath, more than ever. The practice WODs helped to get me much more comfortable coding in Javascript, while under a time limit, and consequently, under pressure. Sometimes, I felt like Rocky Balboa getting ready for his next big boxing match, with the song "Eye of the Tiger" playing in my head. This was good practice for the actual WOD situation, and I felt that I was well prepared in terms of working under pressure.
+<img class="ui medium right floated rounded image" src="../images/essay1-climb.jpg">
+
+I can climb that tall pole while hanging on for dear life. I can run 2-miles in 14-minutes. However, these "athletic" Workouts of the Day (WODs) have me out of breath, more than ever before. The practice WODs helped to get me much more comfortable coding in Javascript, while under a time limit, and consequently, under pressure. This was good practice for the actual WOD situation, and I felt that I was well prepared in terms of working under pressure.
 
 In high school, I was in the Air Riflery program. When you are at the firing line, you must be as relaxed as possible when you aim and shoot the pellet at your target. At times, you start spacing out and getting frustrated. The best thing to do at that time is to take a step back, breathe, and collect yourself. The practice WODs reminded me to simply take a deep breath while in the midst of frustration and break the problem down into different layers and pieces.
 
