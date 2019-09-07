@@ -31,7 +31,7 @@ Here is a video of normal gameplay:
 
 <hr>
 
-Our game is one big state-machine. Different game states are linked together and the game machine will change states depedning on whether or not certain conditions are fulfilled. There are map states where you walk around to solve puzzles, and there are battle states that resemble that of Pokemon.
+Our game is one big state-machine. Different game states are linked together and the game machine will change states depending on whether or not certain conditions are fulfilled. There are map states where you walk around to solve puzzles, and there are battle states that resemble that of the game "Pokemon".
 
 We used a sprite machine on Github to produce 8-bit style characters. The backgrounds were hand-drawn because of the limitations of the graphics library; however the different maps and collision files were coded and connected via inheritance. 
 
