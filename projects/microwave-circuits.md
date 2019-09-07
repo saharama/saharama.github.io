@@ -15,16 +15,14 @@ summary: Designed and fabricated a microstrip stepped low-pass filter for EE473 
 
 <img class="ui medium right floated rounded image" src="../images/microwave-solder2.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In my *EE473 Microwave Engineering* class, I did many microwave circuit simulations on an application, Microwave Office. I looked at the S-parameters of circuits, which correspond to the electromagnetic waves that enter and leave the circuit elements.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+One of the highlights of this class was being able to fabricate a filter. A filter in electronics will stop all signals from being received, except those at a certain frequency. By using copper tape, we cut our filter to the specifications we designed and mounted the copper on a substrate. We then soldered on SMA connectors for analysis with network analyzer.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but it was very fun and interesting to get to do hand-ons learning in such a specialized field.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/microwave-filterAnalysis.jpg">
   <img class="ui image" src="../images/microwave-sim.png">
   <img class="ui image" src="../images/microwave-solder.jpg">
 </div>
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
