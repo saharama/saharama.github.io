@@ -23,6 +23,6 @@ The results from our fabricated filter were very close to that of our simulation
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/microwave-filterAnalysis.jpg">
-  <img class="ui image" src="../images/microwave-sim.png">
+  <img class="ui image" src="../images/microwave-sim.PNG">
   <img class="ui image" src="../images/microwave-solder.jpg">
 </div>
