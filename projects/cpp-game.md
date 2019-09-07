@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cpp-gameWin.png
 title: Just Another Love Story
-permalink: projects/cotton
+permalink: projects/cpp-game
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
