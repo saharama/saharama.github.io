@@ -22,7 +22,7 @@ Coming from a background in C and C++, the syntax in Javascript was relatively e
 
 ## My Software Marathon Training
 
-I can run 2-miles in 14-minutes, but these "athletic" Workouts of the Day (WODs) have me out of breath, more than ever. The practice WODs helped to get me much more comfortable coding in Javascript while under a time limit, and consequently, under pressure. Sometimes, I felt like Rocky Balboa. This was good practice for the actual WOD situation, and I felt that I was prepared well in that sense.
+I can run 2-miles in 14-minutes, but these "athletic" Workouts of the Day (WODs) have me out of breath, more than ever. The practice WODs helped to get me much more comfortable coding in Javascript while under a time limit, and consequently, under pressure. Sometimes, I felt like Rocky Balboa getting ready for the next big boxing match. This was good practice for the actual WOD situation, and I felt that I was prepared well in that sense.
 
 In high school, I was in the Air Riflery program. You have to be as relaxed as possible when you aim and shoot the pellet at the target. At times, you start spacing out and getting frustrated. The best thing to do at that time is to take a step back, breathe, and collect yourself. The practice WODs reminded me to simply take a deep breath while in the midst of frustration and break the problem down into different layers and pieces.
 
