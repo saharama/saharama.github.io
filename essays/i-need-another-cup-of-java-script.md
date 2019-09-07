@@ -69,3 +69,6 @@ Later in the day, I was talking to some of my Computer Engineering friends. It s
 Overall, I am finding ICS314 to be a class that keeps me on my toes. It seems to be a lot of work, but the work is not too hard. I do enjoy the "flipped-classroom". It is efficient, and keeps me engaged. My biggest fear is being unable to complete future WODs, specifically because I do not currently have an extensive background in program structures like my peers. It will take consistent work and a lot of time; however, success is not a sprint, it is a marathon.
 
 I will make sure to digest the syntax and associated caffiene of this useful and flexible language. I am looking forward to the object-oriented Javascript module next week!
+
+
+
