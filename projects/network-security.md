@@ -29,7 +29,7 @@ Last semester, we were introduced to the Netzob library for help with interpreta
 
 We are currently analyzing trends in the collected data in network Layers 1, 2, 3. 
 
-It was interesting, to me, how this project and my part-time job in the UH Data Center would end up falling hand-in-hand. I feel like my part-time job helped to give me a firm, physical view of networking. I also learned a lot about networks from my coworkers, who would spend time helping me to understand networks a little better. Before you can make a network secure, you need to truly understand how it works, first.
+It was interesting, to me, how this project and my part-time job in the UH Data Center would end up falling hand-in-hand. I feel like my part-time job helped to give me a firm, physical view of networking. I also learned a lot about networks from my coworkers, who would spend time helping me to understand concepts like the OSI-model. Before you can make a network secure, you need to truly understand how it works, first.
 
 <hr>
 
