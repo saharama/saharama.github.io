@@ -35,7 +35,7 @@ Our game is one big state-machine. Different game states are linked together and
 
 We used a sprite machine on Github to produce 8-bit style characters. The backgrounds were hand-drawn because of the limitations of the graphics library; however the different maps and collision files were coded and connected via inheritance. 
 
-We did a lot of "hard-coding" and defeinitely should have implemented more object-oriented techniques to make our journey easier. We learned the benefits of classes and inheritance the hard way. While we implemented some of those techniques, more in-depth planning at the beginning of the project could have saved us a lot of time. We retraced our steps to implement more of these object-oriented techinques, but some of the code was much too redudnant and was easier to just leave be. 
+We did a lot of "hard-coding" and definitely should have implemented more object-oriented techniques to make our journey easier. We learned the benefits of classes and inheritance the hard way. While we implemented some of those techniques, more in-depth planning at the beginning of the project could have saved us a lot of time. We retraced our steps to implement more of these object-oriented techinques, but some of the code was much too redudnant and was easier to just leave be. 
 
 It was a great learning experience, and it was very fun to work together on a creative project!
 
