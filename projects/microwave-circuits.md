@@ -21,7 +21,7 @@ Our team worked together to collectively design three types of microstrip filter
 
 One of the highlights of this class was being able to fabricate a filter. A filter in electronics will stop all signals from being received, except those at a certain frequency. By using copper tape, we cut our filter to the specifications we designed and mounted the copper on a substrate. We then soldered on SMA connectors for analysis with the network analyzer.
 
-The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but the whole experience was very enjoyable and interesting to get to do hand-ons learning in such a specialized field.
+The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but the whole experience was very enjoyable, and it was incredibly interesting to get to do hand-ons learning in such a specialized field.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/microwave-filterAnalysis.jpg">
