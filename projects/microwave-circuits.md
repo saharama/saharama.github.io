@@ -15,7 +15,7 @@ summary: Designed and fabricated a microstrip stepped low-pass filter for EE473 
 
 <img class="ui medium right floated rounded image" src="../images/microwave-solder2.jpg">
 
-In my *EE473 Microwave Engineering* class, I did many microwave circuit simulations on software called AWR Microwave Office. I looked at the S-parameters of circuits, which correspond to the electromagnetic waves that enter and leave the individual circuit elements.
+In my *EE473 Microwave Engineering* class, I did many microwave circuit simulations on software called AWR Microwave Office. I looked at the scatttering parameters (s-parameters), which correspond to the electromagnetic waves that enter and leave the individual circuit elements.
 
 Our team worked together to collectively design three types of microstrip filters: Stubbed Low-pass, Stepped Low-pass, and Coupled Band-pass. In our simulations, we had to account for the expected discontinuities of our proposed circuits. Based on our compensated values and calculations, we decided that the stepped low-pass filter would be the best circuit for our group to make.
 
