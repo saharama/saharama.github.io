@@ -40,4 +40,4 @@ In these modern times, computers continue to play a crucial role in our everyday
 
 ## Onward and Upward
 
-My future may be bright (electrons, photons, and such), but I have yet to figure out what I want to do. Regardless, knowing how to develop software, especially on a team, may prove to be a strength in the future. At the very least, at the end of this class, I hope I will be able to understand my Computer Science friends when they complain about their workload.
+My future may be bright (electrons, photons, and such), but I have yet to figure out what I want to do. Regardless, knowing how to develop software, especially on a team, may prove to be a strength in the future. At the very least, at the end of this class, I hope I will be able to understand my Computer Science friends when they complain about their workload. I always used to think they were "softies" for complaining how difficult ICS311 and ICS314 were. Now that I am taking ICS314, the workload is hard to manage; therefore I think to myself—"Soft... Where?!"
