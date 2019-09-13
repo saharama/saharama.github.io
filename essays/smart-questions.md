@@ -24,14 +24,21 @@ The goal of this exercise is not to “prove” that asking questions the smart 
 
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
 
-## The Importance of smart questions for smart software engineers
+## Play it Smart
+
+In the words, of a wise man: "I have a theory. People talk loud when they want to sound smart, right? Maybe if we play loud, people will think we're good." (Squidward Tentacles, 2001).
+
+## Asking like a Pro
+
+Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> Reading lines in C versus Python</a>
 
 ## Back to the Drawing Screen
 
-Average StackOverflow question: <a href="https://github.com/saharama/EE205_FinalProject"> saharama/EE205_FinalProject/</a>
+Example of question needing work: <a href="https://stackoverflow.com/questions/11819536/converting-a-decimal-array-into-a-2d-16bit-character-array-in-c"> Converting arrays</a>
 
-## Good Question
 
-Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> saharama/EE205_FinalProject/</a>
 
 ## Wrap-Up
+
+
+
