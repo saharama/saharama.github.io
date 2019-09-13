@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: true
 title: Reflection on smart-questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
