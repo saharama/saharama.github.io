@@ -17,7 +17,7 @@ Marching band is similar to software development. Break down your task into smal
 
 In the words of a wise marching band conductor: "I have a theory. People talk loud when they want to sound smart, right? Maybe if we play loud, people will think we're good." (Squidward Tentacles, 2001).
 
-If developers asked smart questions, they likely appear to be smart. Not only do "smart-questions" explain problems and symptoms clearly, but they also show a certain threshold of respect and willingness to learn towards the programming community. Great concise questions will entice others to contribute toward a great solution.
+If developers ask smart questions, they can appear smarter. Not only do "smart-questions" explain problems and symptoms clearly, but they also show a certain threshold of respect and willingness to learn towards the programming community. Great concise questions will entice others to contribute toward a great solution.
 
 ## Asking like a Pro
 
