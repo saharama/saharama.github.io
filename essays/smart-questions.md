@@ -24,8 +24,11 @@ Perhaps, if developers asked smart questions, they may appear to be smart. Not o
 
 First, search StackOverflow for a question submitted by a developer that demonstrates the “smart way”. Such a question should follow the precepts established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
 
+We first take a look at a question that showcases great question format and proposal.
 
 Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> Reading lines in C versus Python</a>
+
+This was also very effective because the author of the question continued to update his post. There is a summary of the answer to his question denoted at the top.
 
 ## Back to the Drawing Screen
 
