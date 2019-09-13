@@ -23,7 +23,7 @@ If developers asked smart questions, they likely appear to be smart. Not only do
 
 <img class="ui medium left floated rounded image" src="../images/stack_good1.JPG">
 
-We first take a look at a question that showcases great question format and proposal. We also note that this user clearly states what he has tried, and mentions certain details that pertain to "symptoms". Although there are many good points in the question, the title could be a little more precise to get straight to the point.
+We first take a look at a question that showcases great question format and proposal. We also note that this user clearly states what he has tried and mentions certain details that pertain to "symptoms" of programming bugs. Although there are many good points in the question, the title could be a little more precise to get straight to the point.
 
 Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> Reading lines in C versus Python</a>
 
