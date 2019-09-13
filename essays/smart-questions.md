@@ -37,8 +37,8 @@ Now we view a question that needs some work. The author of the question asked fo
 
 Example of question needing work: <a href="https://stackoverflow.com/questions/11819536/converting-a-decimal-array-into-a-2d-16bit-character-array-in-c"> Converting arrays</a>
 
-<img class="ui medium floated rounded image" src="../images/stack_average1.JPG">
-<img class="ui medium floated rounded image" src="../images/stack_average2.JPG">
+<img class="ui medium left floated rounded image" src="../images/stack_average1.JPG">
+<img class="ui medium right floated rounded image" src="../images/stack_average2.JPG">
 
 In this average-joe example, we see that a specific question is being asked. Proper capitalization and grammar would give the author slightly more credibility and implicitly show some respect towards the StackOverflow community. It is good that the question is straight to the point; however, there are no details at the author's attempt at a solution. There are large chunks of code pasted into the question, which do not come with much explanation.
 
@@ -48,4 +48,6 @@ As we can see in the responses from the community, the inital unclear question l
 
 ## Wrap-Up
 
-After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes. I feel compelled to add much more detail into questions I add into the future, because I now understand that it can entice people to answer my question, while also speed up the total time it takes to get good help.
+After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes. I feel compelled to add much more detail into questions I add into the future, because I now understand that it can entice people to answer my question, while also speed up the total time it takes to get good help. Before this exercise, I did not think that the StackOverflow community would react differently and be driven to posts that show thought and were well explained.
+
+Now all of these concepts related to posting detailed, yet concise questions make sense to me. I am now much more aware of the social incentive applied by smart questions.
