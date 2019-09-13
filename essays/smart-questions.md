@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Reflection on smart-questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
@@ -10,36 +10,30 @@ labels:
   - Reflections
 ---
 
-## Prompt
-
-Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-
 ## Play it Smart
 
 In the words, of a wise man: "I have a theory. People talk loud when they want to sound smart, right? Maybe if we play loud, people will think we're good." (Squidward Tentacles, 2001).
 
-Perhaps, if developers asked smart questions, they may appear to be smart. Not only do "smart-questions" explain problems and symptoms clearly, but they also show a certain threshold of respect and willingness to learn towards the programming community
+If developers asked smart questions, they likely appear to be smart. Not only do "smart-questions" explain problems and symptoms clearly, but they also show a certain threshold of respect and willingness to learn towards the programming community. Great concise questions will entice others to contribute toward a great solution.
 
 ## Asking like a Pro
 
-First, search StackOverflow for a question submitted by a developer that demonstrates the “smart way”. Such a question should follow the precepts established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question the smart way leads to both efficient and effective help.
-
-We first take a look at a question that showcases great question format and proposal.
+We first take a look at a question that showcases great question format and proposal. We also note that this user clearly states what he has tried, and mentions certain details that pertain to "symptoms". Although there are many good points in the question, the title could be a little more precise to get straight to the point.
 
 Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> Reading lines in C versus Python</a>
 
-This was also very effective because the author of the question continued to update his post. There is a summary of the answer to his question denoted at the top.
+In this excellent example, the inquirer clearly states the question and attaches screenshots of relevant code. What truly stands out is the fact that the author of the question continued to update his post. There is a summary of the answer to his question denoted at the top. The author of the post also keeps his language very humble and open-minded which shows a lot of respect to potential aids.
+
+Consequently, this post received many great responses. Because of its inital clarity of both question and details, this question was able to get much thoughtful information and solutions.
 
 ## Back to the Drawing Screen
 
-Next, you will search for a question submitted by a different developer that demonstrates the “not smart way”. In other words, this question violates the principles established by Raymond. In addition, the answers provided by the community should demonstrate that asking a question in a “not smart” way does not lead to both effective and efficient help
+Now we view a question that needs some work. The author of the question asked for help with a program to convert numbers. The author decided to ask the question and post large snippets of code into the question, showing little-to-no higher level thinking.
 
 Example of question needing work: <a href="https://stackoverflow.com/questions/11819536/converting-a-decimal-array-into-a-2d-16bit-character-array-in-c"> Converting arrays</a>
 
+As we can see in the responses from the community, the inital unclear question led to many more requests from information from the individuals attempting to help this developer. This lead to a delayed response and confusion on both sides. In addition, the post likely did not have many attempts to answer because of its poor format and lack of initial information.
 
 ## Wrap-Up
 
-After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes.
-
-The goal of this exercise is not to “prove” that asking questions the smart way is always better. Instead, the goal of this exercise is to help you form a deeper understanding of what constitutes “smart” and “not smart” questions so that you are more likely to ask smart ones in the future.
-
+After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes. I feel compelled to add much more detail into questions I add into the future, because I now understand that it can entice people to answer my question, while also speed up the total time it takes to get good help.
