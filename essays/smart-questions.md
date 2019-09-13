@@ -13,7 +13,9 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/band_trumpets.jpg">
 
-In the words of a wise man: "I have a theory. People talk loud when they want to sound smart, right? Maybe if we play loud, people will think we're good." (Squidward Tentacles, 2001).
+Marching band is similar to software development. Break down your task into smaller elements, and tackle each one individually.
+
+In the words of a wise marching band conductor: "I have a theory. People talk loud when they want to sound smart, right? Maybe if we play loud, people will think we're good." (Squidward Tentacles, 2001).
 
 If developers asked smart questions, they likely appear to be smart. Not only do "smart-questions" explain problems and symptoms clearly, but they also show a certain threshold of respect and willingness to learn towards the programming community. Great concise questions will entice others to contribute toward a great solution.
 
