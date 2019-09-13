@@ -26,12 +26,12 @@ Write a technical essay that discusses why smart questions are important for sma
 
 ## The Importance of smart questions for smart software engineers
 
-## Bad Question
+## Back to the Drawing Screen
 
-Clean Project Repo: <a href="https://github.com/saharama/EE205_FinalProject"> saharama/EE205_FinalProject/</a>
+Average StackOverflow question: <a href="https://github.com/saharama/EE205_FinalProject"> saharama/EE205_FinalProject/</a>
 
 ## Good Question
 
-Link to good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> saharama/EE205_FinalProject/</a>
+Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> saharama/EE205_FinalProject/</a>
 
 ## Wrap-Up
