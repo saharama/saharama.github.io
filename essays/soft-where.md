@@ -28,6 +28,8 @@ I am majoring in Electrical Engineering in the Electro-Physics track here at the
 
 I am supposed to talk about my interests in software engineering, but my interests do not necessarily focus directly on developing software. As shown on my technical portfolio, my main interests are in that of Power Systems, RF and Microwave Wireless Communications, and Network Security. I am very interested in these fields because in one layer of application or another, they are the backbone for keeping people communicated and connected. I would love to play a little part in the big world of helping to connect people.
 
+Some of the most popular simulation softwares in the Power industry are quite outdated. This is ironic, because these simulations help us to purchase the correct equipment to keep everyone safe. 
+
 <hr>
 
 
