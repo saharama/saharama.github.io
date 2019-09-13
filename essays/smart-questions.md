@@ -43,7 +43,7 @@ Example of question needing work: <a href="https://stackoverflow.com/questions/1
 
 <img class="ui medium left floated rounded image" src="../images/stack_average2.JPG">
 
-In this average-joe example, we see that a specific question is being asked. Proper capitalization and grammar would give the author slightly more credibility and implicitly show some respect towards the StackOverflow community. It is good that the question is straight to the point; however, there are no details at the author's attempt at a solution. There are large chunks of code pasted into the question, which do not come with much explanation.
+Proper capitalization and grammar would give the author slightly more credibility and implicitly show some respect towards the StackOverflow community. It is good that the question is straight to the point; however, there are no details at the author's attempt at a solution. There are large chunks of code pasted into the question, which do not come with much explanation.
 
 The author of the post does not show the current output of the function. When drafting the question, the author should show, or at the very least explain, the outputs and lessoned learned from prior attempts to debug.
 
