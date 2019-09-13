@@ -16,7 +16,7 @@ summary: My EE205 group developed an RPG using C++ and SFML graphics.
 My group of three used C++ and object-oriented techniques to make a Role-Playing Game (RPG). We implemented the SFML library for simple game graphics and audio.
 
 
-<img class="ui medium center floated rounded image" src="{{ site.baseurl }}/images/cpp-title.png">
+<img class="ui medium centered floated rounded image" src="{{ site.baseurl }}/images/cpp-title.png">
 
 <hr>
 
