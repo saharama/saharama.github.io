@@ -23,7 +23,7 @@ If developers ask smart questions, they appear smarter. Not only do "smart-quest
 
 <img class="ui medium left floated rounded image" src="../images/stack_good1.JPG">
 
-We first take a look at a question that showcases great question format and proposal. We also note that this user clearly states the troubleshooting that was attempted and mentions certain details that pertain to "symptoms" of respective programming bugs. Although there are many good points in the question, the title could be slightly more precise to get straight to the point.
+We first take a look at a question that showcases great question format and proposal. We also note that this user clearly states their troubleshooting attempts and mentions certain details that pertain to "symptoms" of respective programming bugs. The user asking the question clearly defines the different types of Operating Systems they used to compile, or interpret, the programs listed in the question. Although there are many good points in the question, the title could be slightly more precise to get straight to the point.
 
 Example of a good question: <a href="https://stackoverflow.com/questions/9371238/why-is-reading-lines-from-stdin-much-slower-in-c-than-python"> Reading lines in C versus Python</a>
 
