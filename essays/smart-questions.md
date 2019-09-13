@@ -51,6 +51,6 @@ As we can see in the responses from the community, the inital unclear question l
 
 ## Wrap-Up
 
-After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes. I feel compelled to add much more detail into questions I add into the future, because I now understand that it can entice people to answer my question, while also speed up the total time it takes to get good help. Before this exercise, I did not think that the StackOverflow community would react differently and be driven to posts that show thought and were well explained.
+After searching through many StackOverflow posts online and extracting both extremes of smart-questions, I have gained a newfound respect for those who ask good questions with great attitudes. I feel compelled to add much more detail into questions I add into the future, because I now understand that it can entice people to answer my question, while also speed up the total time it takes to get good help. Before this exercise, I did not think that the StackOverflow community would react differently and be driven to assist posts that exhibit thought and are well explained.
 
 Now all of these concepts related to posting detailed, yet concise questions make sense to me. I am now much more aware of the social incentive applied by smart questions.
