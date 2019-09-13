@@ -20,4 +20,14 @@ Next, you will search for a question submitted by a different developer that dem
 
 The goal of this exercise is not to “prove” that asking questions the smart way is always better (although it would be quite interesting to design an empirical study using StackOverflow to actually gather data on whether “smart” questions do indeed, on average, lead to more effective and efficient answers). Instead, the goal of this exercise is to help you form a deeper understanding of what constitutes “smart” and “not smart” questions so that you are more likely to ask smart ones in the future.
 
+## bruh
+
 Write a technical essay that discusses why smart questions are important for smart software engineers, how the chosen questions fulfill (or not) the precepts for smart questions, how the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
+
+## The Importance of smart questions for smart software engineers
+
+## Bad Question
+
+## Good Question
+
+## Wrap-Up
