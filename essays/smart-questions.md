@@ -33,12 +33,13 @@ Consequently, this post received many great responses. Because of its inital cla
 
 ## Back to the Drawing Screen
 
+<img class="ui medium right floated rounded image" src="../images/stack_average1.JPG">
+
 Now we view a question that needs some work. The author of the question asked for help with a program to convert numbers. The author decided to ask the question and post large snippets of code into the question, showing little-to-no higher level thinking.
 
 Example of question needing work: <a href="https://stackoverflow.com/questions/11819536/converting-a-decimal-array-into-a-2d-16bit-character-array-in-c"> Converting arrays</a>
 
-<img class="ui medium left floated rounded image" src="../images/stack_average1.JPG">
-<img class="ui medium right floated rounded image" src="../images/stack_average2.JPG">
+<img class="ui medium left floated rounded image" src="../images/stack_average2.JPG">
 
 In this average-joe example, we see that a specific question is being asked. Proper capitalization and grammar would give the author slightly more credibility and implicitly show some respect towards the StackOverflow community. It is good that the question is straight to the point; however, there are no details at the author's attempt at a solution. There are large chunks of code pasted into the question, which do not come with much explanation.
 
