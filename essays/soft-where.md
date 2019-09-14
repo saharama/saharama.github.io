@@ -17,6 +17,8 @@ Create a technical essay (approximately 3-4 paragraphs) that discusses your inte
 
 ## It's Just Me and Software Engineering
 
+<img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
+
 My name is Matthew Sahara, and this is a reflection on interests and how they relate to software engineering. Before I can explain that, let me tell you a little about myself!
 
 I am majoring in Electrical Engineering in the Electro-Physics track here at the University of Hawaii at Manoa. I am taking this class to fulfill my Engineering Breadth and Writing Intensive course requirements. A significant number of my ICS peers recommended this class to me. They warned me about the heavy workload, yet they suggested I take it because of the lessons and skills to be gained from ICS314.
