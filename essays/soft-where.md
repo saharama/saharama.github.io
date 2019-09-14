@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Soft-Where?!
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-11
