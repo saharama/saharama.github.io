@@ -19,8 +19,9 @@ Create a technical essay (approximately 3-4 paragraphs) that discusses your inte
 
 My name is Matthew Sahara, and this is a reflection on interests and how they relate to software engineering. Before I can explain that, let me tell you a little about myself!
 
-I am majoring in Electrical Engineering in the Electro-Physics track here at the University of Hawaii at Manoa.
+I am majoring in Electrical Engineering in the Electro-Physics track here at the University of Hawaii at Manoa. I am taking this class to fulfill my Engineering Breadth and Writing Intensive course requirements. A significant number of my ICS peers recommended this class to me. They warned me about the heavy workload, yet they suggested I take it because of the lessons and skills to be gained from ICS314.
 
+As detailed throughout my technical portfolio, I have mild experience with C, C++, and Python. My friend got me into experimenting with HTML and CSS using my personal webpage via the UH UNIX system provided by the University. My friends complained a lot about this class, so I am here to prove that I can do this, too.
 
 <hr>
 
@@ -28,9 +29,7 @@ I am majoring in Electrical Engineering in the Electro-Physics track here at the
 
 I am supposed to talk about my interests in software engineering, but my interests do not necessarily focus directly on developing software. As shown on my technical portfolio, my main interests are in that of Power Systems, RF and Microwave Wireless Communications, and Network Security. I am very interested in these fields because in one layer of application or another, they are the backbone for keeping people communicated and connected. I would love to play a little part in the big world of helping to connect people.
 
-
 <hr>
-
 
 ## Application to My Interests
 
