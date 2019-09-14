@@ -9,12 +9,6 @@ labels:
   - Javascript Basics
 ---
 
-## Prompt
-
-Create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
-
-<hr>
-
 ## It's Just Me and Software Engineering
 
 <img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
@@ -44,3 +38,5 @@ Some of the most popular simulation programs in the Power industry are quite out
 ## Onward and Upward
 
 My future may be bright (electrons, photons, and such), but I have yet to figure out what I want to do. Regardless, knowing how to develop software, especially on a team, may prove to be quite the skill in the future. At the very least, at the end of this class, I hope I will be able to understand my Computer Science friends when they complain about their workload. I always used to think they were "softies" for complaining how difficult ICS311 and ICS314 were. Now that I am taking ICS314, I understand that they have been telling me the truth. I look around my class, and I think to myself—"Soft... Where?!"
+
+
