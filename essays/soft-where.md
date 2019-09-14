@@ -37,7 +37,7 @@ I am supposed to talk about my interests in software engineering, but my interes
 
 In these modern times, computers continue to play a crucial role in our everyday lives. In addition, many of the current big industries are using computers to automate techniques and increase productivity. Recently, I went to a talk about signal processing equipment in the RF/Microwave spectrum, and I was suprised to know there is a high demand for prospective RF engineers that are proficient in programming in Python! 
 
-Some of the most popular simulation programs in the Power industry are quite outdated. This is ironic, because these simulations help us to provide the correct equipment to keep everyone safe. One day, I possibly hope to aid in the development of a more user-friendly power systems analysis and simulation software to make the job of thousands of engineers much easier.
+Some of the most popular simulation programs in the Power industry are quite outdated. This is ironic, because these simulations help us to provide the correct equipment to keep everyone safe. One day, I possibly hope to aid in the development of a more user-friendly power systems analysis and simulation software to make the jobs of thousands of engineers much easier.
 
 <hr>
 
