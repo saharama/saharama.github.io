@@ -27,13 +27,13 @@ As detailed throughout my technical portfolio, I have mild experience with C, C+
 
 <hr>
 
-## Interesting
+## Software? We are just Friends.
 
 I am supposed to talk about my interests in software engineering, but my interests do not necessarily focus directly on developing software. As shown on my technical portfolio, my main interests are in that of Power Systems, RF and Microwave Wireless Communications, and Network Security. I am very interested in these fields because in one layer of application or another, they are the backbone for keeping people communicated and connected. I would love to play a little part in the big world of helping to connect people.
 
 <hr>
 
-## Application to My Interests
+## It's Electric!
 
 In these modern times, computers continue to play a crucial role in our everyday lives. In addition, many of the current big industries are using computers to automate techniques and increase productivity. Recently, I went to a talk about signal processing equipment in the RF/Microwave spectrum, and I was suprised to know there are a high demand for prospective RF engineers that are proficient in programming in Python! 
 
