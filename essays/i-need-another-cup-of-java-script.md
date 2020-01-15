@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: I Need Another Cup of Java-script!
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
