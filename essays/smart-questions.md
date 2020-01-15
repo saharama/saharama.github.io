@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: StackOverflow-ing with IQ Points
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-12
