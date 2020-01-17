@@ -18,9 +18,12 @@ I am majoring in Electrical Engineering in the Electro-Physics track. ICS314 ful
 
 
 ## Interests
+Majoring in Electrical Engineering, I work as an Undergraduate Research Assistant, where I analyze trends in network-based communcation between drones. We use Python scripts to analyze data and produce statistics to create profiles for specific drones.
 
+In addition to my research work, I find Python heavily used in non-software based applications. I also am a part of the Liquid Metal Vertically Integrated project, which uses Python to collect data from a Vector Network Analyzer machine that measures transmitted and reflected power values of a device-under-test.
 
 ## Software Application
-
+As explained above, software plays a large part in the success of these labs, in both software and hardware related fields. I look forward to learning about the efficient development of software in groups. 
 
 ## Moving Forward - I See The Light!
+In the future, I hope to further automate and optimize work that I see myself doing in the future.
