@@ -2,11 +2,11 @@
 layout: essay
 type: essay
 published: false
-title: I Need Another Cup of Java-script!
+title: 
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-15
 labels:
-  - Javascript Basics
+  - Introduction
 ---
 
 create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
