@@ -31,4 +31,4 @@ Although I am still unsure what career path and field in Electrical Engineering 
 As explained above, software plays a large part in the success of these labs, in both software and hardware related fields. I look forward to learning about the efficient development of software in groups. 
 
 ## Moving Forward - I See The Light!
-In the future, I hope to further automate and optimize work that I see myself doing in the future.
+In the future, I hope to further automate and optimize work that I see myself doing in the future. In terms of short-term goals, 
