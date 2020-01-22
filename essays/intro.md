@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: false
-title: 
+title: I See The Light!
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-15
 labels:
