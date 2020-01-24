@@ -4,9 +4,10 @@ type: essay
 published: true
 title: I See The Light!
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-15
+date: 2020-01-23
 labels:
   - Introduction
+  - Interests
 ---
 
 <img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
