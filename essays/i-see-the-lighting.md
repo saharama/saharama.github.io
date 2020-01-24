@@ -13,13 +13,13 @@ create a technical essay (approximately 3-4 paragraphs) that discusses your inte
 
 <img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
 
-## Introduction
+## Oh Hello, I Didn't See You There!
 Aloha, my name is Matthew Sahara. This essay serves to tell a little about my professional interests and how they relate to software engineering techniques and concepts stressed in this class.
 
 I am majoring in Electrical Engineering in the Electro-Physics track. ICS314 fulfills my Engineering Breadth and Writing Intensive academic requirements. My peers in the Computer Science department recommended this class to me.
 
 
-## Interests
+## Interesting Interests
 Majoring in Electrical Engineering, I work as an Undergraduate Research Assistant, where I analyze trends in network-based communcation between drones. We use Python scripts to analyze data and produce statistics to create profiles for specific drones.
 
 In addition to my research work, I find Python heavily used in physics based applications as well. I am also a part of the Liquid Metal Vertically Integrated project on the RF circuits team where we were working on designing an RF switch that would actuate using liquid metal technolgies. You might be thinking: "How does this relate to Software Engineering?" In reality, one of the former lab members wrote Python scripts to collect data from a Vector Network Analyzer machine, which measures transmitted and reflected power values of a device-under-test. In Electrical Engineering research, a large portion of data analysis revolves around software, and has proven to be an invaluable resource.
@@ -27,7 +27,7 @@ In addition to my research work, I find Python heavily used in physics based app
 Over the summer, I was lucky to have the opportunity to intern with Burns & McDonnell, an engineering company that focuses on design-build construction work. I worked on the network architecture and medium-voltage switchgear for a microgrid for a community. The microgrid was designed to make the community self-sustainable, incorporating renewable energy, in the event of an emergency in which the electric utility is unable to supply power.
 
 
-## Software Application
+## Software or Hardware?
 Although I am still unsure what career path and field in Electrical Engineering I want to pursue, it is apparent that software plays a big part in the simulation, automation, and efficiency in all of these fields.
 
 As explained above, software plays a large part in the success of these labs, in both software and hardware related fields. I look forward to learning about the efficient development of software in groups.
@@ -36,7 +36,7 @@ For instance, power design companies rely on software to correctly size and chec
 
 In RF and Microwave Circuit design, sof
 
-## Moving Forward - I See The Light!
+## Moving Forward - I See The Light(ing)!
 In the future, I hope to further automate and optimize work that I see myself doing in the future. In terms of short-term goals, 
 
 I hope that I will build a strong foundation in software engineering through my work in this class.
