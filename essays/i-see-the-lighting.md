@@ -24,18 +24,10 @@ Over the summer, I was lucky to have the opportunity to intern with Burns & McDo
 
 
 ## Software or Hardware?
-Although I am still unsure what career path and field in Electrical Engineering I want to pursue, it is apparent that software plays a big part in the simulation, automation, and efficiency in all of these fields.
-
-As explained above, software plays a large part in the success of these labs, in both software and hardware related fields. I look forward to learning about the efficient development of software in groups. The concept of git has always phased me, and I used it for a short period of time for a C++ project in my EE205 class. I hope to expand upon my limited knowledge and build essential project management skills for real-world development.
-
-In RF and Microwave Circuit design, we also rely heavily on software for both simulation and testing of RF devices, circuits, and systems. Many companies are now looking for potential RF engineers that know the electromagnetic theories and also know how to code well. This class 
-
-For instance, power design companies rely on software to correctly size and check safety devices and equipment, such as electrical breakers and cables. Power Engineering software plays a big part in ensuring the safety of the average person. The existing software in the Power Engineering is utilitarian and has many known issues that slow down the design engineer running simulations. In the future, I hope to potentially work on a team to redesign and optimize the current, supposed state-of-the-art software to increase the productivity and ease of Electrical Engineering design to make the community a better and safer place. 
-
-In addition, there is a Software Engineering section on the Fundamentals Exam (FE) for engineers. Essentially, this exam is the first step in the journey to becoming a licensed Professional Engineer (PE), who can sign off or stamp design drawings. The PE license brings both credibility and legal responsibility to the individual. I see this class definitely developing my software skills to help me do well on this exam.
+Although I am still unsure what career path and field in Electrical Engineering I want to pursue, it is apparent that software plays a big part in the simulation, automation, and efficiency in all of these fields. I look forward to learning about the productive development of software in groups. The concept of git has always phased me, and I used it for a short period of time for a C++ project in my EE205 class. I hope to expand upon my limited knowledge and build essential project management skills for real-world software development.
 
 
 ## Moving Forward - I See The Light(ing)!
-In the future, I hope to further automate and optimize work that I see myself doing in the future. In terms of short-term goals, I h
+In the future, I hope to further automate and optimize work that I see myself doing in the future. Many companies are now looking for Electrical Engineers that know the electromagnetic theories and also know how to code well. However, even if I am not able to find a software oriented job, I predict that the methodologies in the class can easily be applied to different fields, aside from software development. I hope that this class will help me to grow as a future engineer and help to boost my problem solving capabilities.
 
-I hope that I will build a strong foundation in software engineering through my work in this class.
+I hope to build a strong foundation in software engineering through my work in this class. Although my passion involves electrons and photons, I hope to see the light in software engineering.
