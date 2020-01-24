@@ -87,12 +87,38 @@
   ],
   "work": [
     {
-      "company": "University of Hawaii",
+      "company": "University of Hawaii - College of Engineering",
+      "position": "Undergraduate Research Assistant",
+      "website": "http://www.ee.hawaii.edu/",
+      "startDate": "2020-01-13",
+      "endDate": "Present",
+      "summary": "Focusing on Cyber Security training and research in respect to drone applications.",
+      "highlights": [
+        "Co-leads a team of 6 students in drone network-traffic analysis research",
+        "Helps to guide new students in basic wireless network security penetration techniques",
+        "Collects drone communication data and analyzes characteristic data trends using Python3"
+      ]
+    },
+    {
+      "company": "University of Hawaii - College of Engineering",
+      "position": "Undergraduate Teaching Assistant",
+      "website": "http://www.ee.hawaii.edu/",
+      "startDate": "2020-01-13",
+      "endDate": "Present",
+      "summary": "Facilitates one section of an introductory programming course in C.",
+      "highlights": [
+        "Leads class discussions and examples on important C concepts",
+        "Holds weekly office hours to tutor students regarding C programming and Unix",
+        "Grades and provides constructive feedback to students on laboratory assignments"
+      ]
+    },
+    {
+      "company": "University of Hawaii Systems",
       "position": "Student Data Center Tech",
       "website": "",
       "startDate": "2018-02-03",
       "endDate": "2020-01-12",
-      "summary": "Works as part of a team to maintain the two major data centers at UH Manoa",
+      "summary": "Works as part of a team to maintain the two major data centers at UH Manoa.",
       "highlights": [
         "Installs network devices, equipment, and connections throughout the data centers",
         "Uses data center management software to keep track of network devices and connections",
@@ -130,7 +156,7 @@
       "organization": "Engineering Network",
       "website": "www.enuhm.com",
       "position": "Vice President",
-      "startDate": "2018-08-25",
+      "startDate": "2019-08-25",
       "endDate": "Present",
       "summary": "Founding board member of interdisciplinary engineering club, focusing on unique social networking opportunities with other colleges and organizations.",
       "highlights": [
