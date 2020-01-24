@@ -14,7 +14,7 @@ labels:
 ## About Me
 Aloha, my name is Matthew Sahara. This essay serves to tell a little about my professional interests and how they relate to software engineering techniques and concepts stressed in this class.
 
-I am majoring in Electrical Engineering in the Electro-Physics track. I have experience with C, C++, and Python. ICS314 fulfills my Engineering Breadth and Writing Intensive academic requirements. My peers in the Computer Science department recommended this class to me because they were able to implement these efficient software engineering concepts into their own projects.
+I am majoring in Electrical Engineering in the Electro-Physics track. I have experience with C, C++, and Python. ICS314 fulfills my Engineering Breadth and Writing Intensive academic requirements. My peers in the Computer Science program recommended this class to me because they were able to implement efficient software engineering experiences into their own projects.
 
 
 ## Interesting Interests
