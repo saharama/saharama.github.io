@@ -30,5 +30,5 @@ In this class, we follow a training regimen to keep ourselves in-shape to learn 
 
 I have to admit that I have not had much exercise in the past couple months. However, this past week turned out to be quite the workout! Thanks to ICS314, I have learned a very important lesson about retention of information. I plan to apply similar athletic learning to all of my classes. This method of learning helps to keep me on my feet, and it forces me to be constantly thinking about relevant concepts throughout the week.
 
-At the end of the week, I look back and look at all the muscles that I gained from the Javascript workouts. What season is it? It is bulking season.
+At the end of the week, I look back at all the muscles that I gained from the Javascript workouts. What season is it? It is bulking season.
 
