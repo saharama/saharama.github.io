@@ -26,6 +26,4 @@ Although I am still unsure what career path and field in Electrical Engineering 
 
 
 ## Moving Forward - I See The Light(ing)!
-In the future, I hope to further automate and optimize work that I see myself doing in the future. Many companies are now looking for Electrical Engineers that know the electromagnetic theories and also know how to code well. However, even if I am not able to find a software oriented job, I predict that the methodologies in the class can easily be applied to different fields, aside from software development. I hope that this class will help me to grow as a future engineer and help to boost my problem solving capabilities.
-
-I hope to build a strong foundation in software engineering through my work in this class. Although my passion involves electrons and photons, I hope to see the light in software engineering.
+In the future, I hope to further automate and optimize work that I see myself doing in the future. Many companies are now looking for Electrical Engineers that know the electromagnetic theories and also know how to code well. However, even if I am not able to find a software-oriented job, I predict that the methodologies in the class can easily be applied to different fields. I hope that this class will help me to grow as a future engineer and help to boost my problem solving capabilities. Although my passion involves electrons and photons, I hope to see the light in software engineering.
