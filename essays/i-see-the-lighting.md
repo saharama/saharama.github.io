@@ -13,7 +13,7 @@ create a technical essay (approximately 3-4 paragraphs) that discusses your inte
 
 <img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
 
-## Oh Hello, I Didn't See You There!
+## About Me
 Aloha, my name is Matthew Sahara. This essay serves to tell a little about my professional interests and how they relate to software engineering techniques and concepts stressed in this class.
 
 I am majoring in Electrical Engineering in the Electro-Physics track. ICS314 fulfills my Engineering Breadth and Writing Intensive academic requirements. My peers in the Computer Science department recommended this class to me.
