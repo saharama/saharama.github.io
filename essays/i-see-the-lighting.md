@@ -11,6 +11,8 @@ labels:
 
 create a technical essay (approximately 3-4 paragraphs) that discusses your interests in software engineering and what kinds of skills and experiences you hope to develop in future.
 
+<img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
+
 ## Introduction
 Aloha, my name is Matthew Sahara. This essay serves to tell a little about my professional interests and how they relate to software engineering techniques and concepts stressed in this class.
 
