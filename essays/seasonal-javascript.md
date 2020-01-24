@@ -17,7 +17,7 @@ labels:
 
 I absolutely enjoy the Spring semester. It always feels as if there is more time to dedicate to my classes. As a student in the College of Engineering, I have experience with C, C++, and Python. I have very minor experiences with Javascript, but it does not appear to be too difficult. In respect to C and C++, Javascript is not too different. There are slightly different rules that can be very confusing at times, but overall, Javascript has been quite intuitive. It is important to note that the suble differences could turn out to be major problems. For instance, we are able to modify strings, like arrays, in C and C++; however, in Javascript, strings cannot be modified.
 
-The ES6 features that we learned about were slightly difficult to remember, but I see how they can be useful to optimize code. My initial reaction to the ES6 functions were similar to that of my face in the above picture. Upon closer inspection, they seem to have a lot of potential benefits, if I am able to become more comfortable with them over time. 
+The ES6 features that we learned about were slightly difficult to remember, but I see how they can be useful to optimize code. My initial reaction to the ES6 functions were similar to that of my face in the above picture. Upon closer inspection, they seem to have a lot of potential benefits—if I am able to become more comfortable with them over time. 
 
 
 ## The Critic's Corner
