@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: Javascript Reflection
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
