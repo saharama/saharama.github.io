@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: StackOverflow-ing with IQ Points
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-12
+date: 2020-01-30
 labels:
   - Smart questions
   - Reflections
