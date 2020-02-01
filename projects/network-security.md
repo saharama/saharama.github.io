@@ -21,7 +21,7 @@ summary: My team is developing a toolset to classify and profile Unmanned Aerial
 
 <hr>
 
-As an Undergraduate Research Assistant for Dr. Yingfei Dong, I am part of a team working towards classifying Unmanned Aerial Systems (UASs) based on how their wireless network communication patterms. I am currently analyzing wireless network traffic and developing Python scripts for network packet analysis of UASs. This is a continuation of my senior design project, as we are continuing to expand the accuracy and breadth of our UAS Classifier scripts.
+As an Undergraduate Research Assistant for Dr. Yingfei Dong, I am part of a team working towards classifying Unmanned Aerial Systems (UASs) based on their wireless network communication patterms. I am currently analyzing wireless network traffic and developing Python scripts for network packet analysis of UASs. This is a continuation of my senior design project, as we are continuing to expand the accuracy and breadth of our UAS Classifier scripts.
 
 With Kali Linux, I use the aircrack-ng suite to capture wireless network traffic from various UASs that support WPA2 encryption. We can examine more information about the network traffic in the form of packets with the Wireshark application.
 
