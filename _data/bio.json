@@ -89,7 +89,7 @@
     {
       "company": "University of Hawaii - College of Engineering",
       "position": "Undergraduate Research Assistant",
-      "website": "http://www.ee.hawaii.edu/",
+      "website": "http://www.ee.hawaii.edu",
       "startDate": "2020-01-13",
       "endDate": "Present",
       "summary": "Focusing on Cyber Security training and research in respect to drone applications.",
@@ -141,7 +141,7 @@
     {
       "company": "University of Hawaii",
       "position": "EE Grader II",
-      "website": "http://www.ee.hawaii.edu/",
+      "website": "http://www.ee.hawaii.edu",
       "startDate": "2019-08-20",
       "endDate": "2019-12-14",
       "summary": "Graded homework for EE260 Introduction to Digital Design.",
@@ -154,7 +154,7 @@
   "volunteer": [
     {
       "organization": "Engineering Network",
-      "website": "www.enuhm.com",
+      "website": "http://www.enuhm.com",
       "position": "Vice President",
       "startDate": "2019-08-25",
       "endDate": "Present",
