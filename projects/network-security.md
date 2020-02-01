@@ -40,7 +40,7 @@ Most importantly, we used different flaws in wireless protocol to gain access to
 
 The main goal was to build a firm foundation of wireless networking knowledge to later be implemented in our senior design projects.
 
-For my senior design project, I worked as part of a team to develop a proof-of-concept UAS classifier. We managed to build wireless profiles for two drones, and we were able to distinguish between the two based on a wireless data collection samples.
+For my senior design project, I worked as part of a team to develop a proof-of-concept UAS classifier. We managed to build wireless profiles for two drones, and we were able to distinguish between the two based on sets of wireless data collection samples.
 
 Project Repo: <a href="https://github.com/saharama/UAVClassifier"><i class="large github icon "></i>saharama/UAVClassifier/</a>
 
