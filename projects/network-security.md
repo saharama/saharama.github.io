@@ -21,7 +21,7 @@ summary: My team is developing a toolset to classify and profile Unmanned Aerial
 
 <hr>
 
-I am currently analyzing wireless network traffic and adapting current software using packet analysis for Unmanned Aerial System (UAS) classification and profiling for my senior design project.
+As an Undergraduate Research Assistant for Dr. Yingfei Dong, our team is working towards classifying Unmanned Aerial Systems (UASs) based on how they communicate wirelessly. I am currently analyzing wireless network traffic and developing Python scripts for network packet analysis of UASs. This is a continuation of my senior design project, as we are continuing to expand the accuracy and breadth of our UAS Classifier scripts.
 
 With Kali Linux, I use the aircrack-ng suite to capture wireless network traffic from various UASs that support WPA2 encryption. We can examine more information about the network traffic in the form of packets with the Wireshark application.
 
@@ -29,7 +29,7 @@ Last semester, we were introduced to the Netzob library for help with interpreta
 
 We are currently analyzing trends in the collected data in network Layers 1, 2, 3. 
 
-It was interesting, to me, how this project and my part-time job in the UH Data Center would end up falling hand-in-hand. I feel like my part-time job helped to give me a firm, physical view of networking. I also learned a lot about networks from my coworkers, who would spend time helping me to understand concepts like the OSI-model. Before you can make a network secure, you need to truly understand how it works, first.
+It was interesting, to me, how this project and my former part-time job in the UH Data Center would end up falling hand-in-hand. I feel like my part-time job helped to give me a firm, physical view of networking. I also learned a lot about networks from my coworkers, who would spend time helping me to understand concepts like the OSI-model. Before you can make a network secure, you need to truly understand how it works, first.
 
 <hr>
 
@@ -40,6 +40,7 @@ Most importantly, we used different flaws in wireless protocol to gain access to
 
 The main goal was to build a firm foundation of wireless networking knowledge to later be implemented in our senior design projects.
 
+For my senior design project, I worked as part of a team to develop a proof-of-concept UAS classifier. We managed to build wireless profiles for two drones, and we were able to distinguish between the two based on a wireless data collection samples.
 
 Project Repo: <a href="https://github.com/saharama/UAVClassifier"><i class="large github icon "></i>saharama/UAVClassifier/</a>
 
