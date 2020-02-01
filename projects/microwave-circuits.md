@@ -23,7 +23,7 @@ One of the highlights of this class was being able to fabricate a filter. A filt
 
 The results from our fabricated filter were very close to that of our simulation. We noted the discrepancies, but the whole experience was very enjoyable, and it was incredibly interesting to get to do hand-ons learning in such a specialized field.
 
-Link to EE473 Syllabus <a href="https://drive.google.com/file/d/0B0yBjGINCgxENWVuZ0o5ZUtBTU0/view"><i class="large github icon "></i> here</a>
+Link to EE473 Syllabus <a href="https://drive.google.com/file/d/0B0yBjGINCgxENWVuZ0o5ZUtBTU0/view"><i class="large light icon "></i> here</a>
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/microwave-filterAnalysis.jpg">
