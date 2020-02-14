@@ -26,7 +26,7 @@ Most aspects in our lives are generally controlled by rules, whether it be based
 Compared to my previous experiences, the ESLint tool seemed very helpful and "Fancy".
 
 ## A Second Chance
-IntelliJ and I had a rough start, but I now think that this IDE is invaluable. In my personal experiences with ESLint, it has helped me to better understand the rules and conventions associated with Javascript code. In the first few weeks of class, we learned general capabilities of Javascript, including object-oriented and functional programming. This past week, we were introduced to coding with GitHub Desktop, and we polished our Javascript skills using IntelliJ and ESLint. The ESLint tool helped me to produce code that was much more efficient and easier to understand.
+IntelliJ and I had a rough start, but I now think that this IDE is invaluable. In my personal experiences with ESLint, it has helped me to better understand the rules and conventions associated with Javascript code. In the first few weeks of class, we learned general capabilities of Javascript, including object-oriented and functional programming. This past week, we were introduced to coding with GitHub Desktop, and we polished our Javascript skills using IntelliJ and ESLint. These applications helped me to easily produce code that was much more efficient and easier to understand.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V2hlQkVJZhE?start=20&end=36" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
