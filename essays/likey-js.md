@@ -20,6 +20,6 @@ Most aspects in our lives are generally controlled by rules, whether it be based
 ## Thinking Twice about ESLint
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V2hlQkVJZhE?start=20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In my personal experiences with ESLint, it has helped me to better understand the rules and conventions associated with Javascript code. In the first few weeks of class, we learned general capabilities of Javascript, including object-oriented and function programming. This past week, we were introduced to coding with GitHub Desktop, and we polished our Javascript skills using IntelliJ and ESLint. The ESLint tool helped to make my code much more efficient and easier to understand.
+In my personal experiences with ESLint, it has helped me to better understand the rules and conventions associated with Javascript code. In the first few weeks of class, we learned general capabilities of Javascript, including object-oriented and functional programming. This past week, we were introduced to coding with GitHub Desktop, and we polished our Javascript skills using IntelliJ and ESLint. The ESLint tool helped to make my code much more efficient and easier to understand.
 
 Using the words of the popular Korean pop group, Twice: I definitely "likey-likey-likey" coding standards.
