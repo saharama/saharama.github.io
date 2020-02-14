@@ -13,7 +13,7 @@ labels:
 
 <img class="ui medium left floated rounded image" src="../images/intro_mePoster.jpg">
 
-<div class="ui embed" data-source="youtube" data-id="V2hlQkVJZhE?t=21"></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2hlQkVJZhE?start=20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Many people think of “coding standards” in a trivial way—i.e. minutae such as how many spaces to indent, or whether you place the close-curly-brace on a new line by itself.
 
