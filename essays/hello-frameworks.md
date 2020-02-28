@@ -24,9 +24,9 @@ Hello Semantic UI! This was my first exposure to a framework. Learning to work w
 We began this module on frameworks with three grueling hours of videos on Semantic UI. I spent the bulk of my time trying to install Semantic UI locally on my computer. It turns out you simply need to insert references in your index.html header to link Semantic UI via the web.
 
 Software tools in this class and I usually have quite the rocky start. It was no different in this case. However, as time progressed, I saw the benefits in how intuitive the framework was. We can look at an image tag as an example:
-'''
+```
 <img class="ui big image" src="./helloKitty.jpg">
-'''
+```
 I can easily and intuitively increase the size of my Hello Kitty image by changing the "big" in class to "massive".
 
 ## Hey Kitty, Kitty!
