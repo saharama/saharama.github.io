@@ -32,8 +32,11 @@ We began this module on frameworks with three grueling hours of videos on Semant
 <img class="ui medium right floated rounded image" src="../images/helloKitty-carWash.jpg">
 
 ## Hey Kitty, Kitty!
-As one of the assignments this past week, our task was rebuild a site of our choice, using Semantic UI. My choice was to replicate https://www.sanrio.com/. It turns out that the Hello Kitty website had the most "locked down" code that I have ever seen in source code for a webpage. It all began when I attempted to use image links and find colors used by the website. The code was very compact and in a sense, obfuscated. Some of the references to images would be a weird link, or prompt for some "SHA authentication" when referencing the link in a browser.
+As one of the assignments this past week, our task was rebuild a site of our choice, using Semantic UI. My choice was to replicate https://www.sanrio.com/. I have to be "San-real" with you—it turns out that the Hello Kitty website had the most "locked down" code that I have ever seen in source code for a webpage. It all began when I attempted to use image links and match colors used by the original website. The code was very compact and in a sense, obfuscated. I had issues with referencing the same links that the Sanrio website used itself. To overcome this, I had to comb through Google Images to find similar images to link into my code.
+
 <img class="ui large centered rounded image" src="../images/helloKitty-copy.jpg">
+
+Overall, I was able to successfully replicate select sections of the webpage. Although I was not able to perfectly match everything using Semantic UI, I think that my copy looked reasonably close to the original Sanrio website.
 
 Link to Repo: <a href="https://github.com/saharama/sanrio-semantic-ui"><i class="large github icon"></i>sanrio-semantic-ui</a>
 
