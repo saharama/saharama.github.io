@@ -21,11 +21,11 @@ Hello Semantic UI! This was my first exposure to a framework. Learning to work w
 
 <img class="ui medium left floated rounded image" src="../images/helloKitty-sad.jpg">
 
-We began this module on frameworks with three grueling hours of videos on Semantic UI. I spent the bulk of my time trying to install Semantic UI locally on my computer. I spent at least a couple of hours trying to reconfigure my settings on Windows and troubleshoot. It turns out I simply needed to insert references in my index.html header to link Semantic UI via the web instead of having a local file system copy, as the downloadable version is no longer maintained.
+We began this module on frameworks with three grueling hours of videos on Semantic UI. I spent the bulk of my time trying to install Semantic UI locally on my computer. I spent at least a couple of hours trying to reconfigure my settings on Windows and troubleshoot. It turns out I simply needed to insert references in my index.html header to link Semantic UI via the web, instead of having a local file system copy, as the downloadable version is no longer maintained.
 
 Watching the videos about Semantic UI, the first thing I thought to myself was, "Oh, this is the same thing that we use for images in our Techfolios and essays!" I was actually very excited that I finally would learn and understand how to modify media references in my essays.
 
-Software tools in this class and I usually have quite the rocky start. It was no different in this case. However, as time progressed, I saw the benefits in how intuitive it was. Because it is a framework, it has the potential to speed up the development process even more, when the terms are easy to remember and understand. We can look at an image tag as an example:
+Software tools in this class and I usually have quite the rocky start. It was no different in this case. However, as time progressed, I saw the benefits in how intuitive it was. Because it is a framework, it has great potential to speed up the development process, and it can be optimized even more when the terms are easy to remember and understand. We can look at an image tag as an example:
 ```
 <img class="ui big image" src="./helloKitty.jpg">
 ```
