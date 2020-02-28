@@ -28,10 +28,11 @@ The title of this essay, "Hello Frameworks", seems to be very dry and actually q
 This was my first exposure to a framework. Learning to work with the Semantic UI framework was honestly quite tough for me.
 
 ## Hello There
+
 <img class="ui medium right floated rounded image" src="../images/helloKitty-carWash.jpg">
 
 
-<img class="ui medium right floated rounded image" src="../images/helloKitty-copy.jpg">
+<img class="ui large centered rounded image" src="../images/helloKitty-copy.jpg">
 
 
 
