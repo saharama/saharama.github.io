@@ -15,7 +15,7 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/helloKitty-carWash.jpg">
 
-Hello Semantic UI! This was my first exposure to a framework. Learning to work with the Semantic UI framework was honestly quite tough for me. Coming in with little to no experience, the previous HTML and CSS course module was a very brief crash course. Semantic UI was a lot easier to write, but it took some time for the framework to start becoming intuitive. It was very helpful in the replication of a website for practice. As a child, I would always love Hello Kitty and friends. I still remember being very happy to get a Hello Kitty watch from a Happy Meal when I was in elementary school. Similar to my feelings about Semantic UI, this report may seem full of disappointment at first, but it will slowly start to make sense and express joy as we progress.
+Hello Semantic UI! This was my first exposure to a framework. Learning to work with the Semantic UI framework was honestly quite tough for me. Coming in with little to no experience, the previous HTML and CSS course module was a very brief crash course. Semantic UI was a lot easier to write, but it took some time for the framework to start becoming intuitive. It was very helpful in the replication of a website for practice. I my case, I was able to replicate the Sanrio website, which is the company behind the iconic, Hello Kitty. As a child, I would always love Hello Kitty and friends. I still remember being very happy to get a Hello Kitty watch from a Happy Meal when I was in elementary school. Similar to my feelings about Semantic UI, this report may seem full of disappointment at first, but it will slowly start to make sense and express joy as we progress.
 
 ## Full of Disappointment?
 
