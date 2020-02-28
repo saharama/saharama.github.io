@@ -11,8 +11,6 @@ labels:
   - Front-end
 ---
 
-UI Frameworks are not simple. In fact, they can be almost as complicated to learn as a new programming language. Given that, why bother to use something like Semantic UI? What does one get in return for the investment of time and frustration? Why not just use raw HTML and CSS? Are the software engineering benefits of UI frameworks?
-
 ## Hello There
 
 <img class="ui medium right floated rounded image" src="../images/helloKitty-carWash.jpg">
@@ -20,9 +18,12 @@ UI Frameworks are not simple. In fact, they can be almost as complicated to lear
 Hello Semantic UI! This was my first exposure to a framework. Learning to work with the Semantic UI framework was honestly quite tough for me. Coming in with little to no experience, the previous HTML and CSS course module was a very brief crash course. Semantic UI was a lot easier to write, but it took some time for the framework to start becoming intuitive. Similar to my feelings about Semantic UI, this report may seem full of disappointment at first, but it will slowly start to make sense as we progress.
 
 ## Full of Disappointment
-We began this module on frameworks with three grueling hours of videos on Semantic UI. I spent the bulk of my time trying to install Semantic UI locally on my computer. It turns out you simply need to insert references in your index.html header to link Semantic UI via the web.
 
 <img class="ui medium left floated rounded image" src="../images/helloKitty-sad.jpg">
+
+We began this module on frameworks with three grueling hours of videos on Semantic UI. I spent the bulk of my time trying to install Semantic UI locally on my computer. It turns out you simply need to insert references in your index.html header to link Semantic UI via the web.
+
+
 
 ## Hey Kitty, Kitty!
 As one of the assignments this past week, our task was rebuild a site of our choice, using Semantic UI. My choice was to replicate https://www.sanrio.com/. I have to be "San-real" with you—it turns out that the Hello Kitty website had the most "locked down" code that I have ever seen in source code for a webpage. It all began when I attempted to use image links and match colors used by the original website. The code was very compact and in a sense, obfuscated. I had issues with referencing the same links that the Sanrio website used itself. To overcome this, I had to comb through Google Images to find similar images to link into my code.
