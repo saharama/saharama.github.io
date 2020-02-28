@@ -36,7 +36,7 @@ As one of the assignments this past week, our task was rebuild a site of our cho
 
 <img class="ui large centered rounded image" src="../images/helloKitty-copy.jpg">
 
-Overall, I was able to successfully replicate select sections of the webpage. Although I was not able to perfectly match everything using Semantic UI, I think that my copy looked reasonably close to the original Sanrio website.
+Overall, I was able to successfully replicate select sections of the webpage. A screenshot of my Semantic UI copy is shown above. Although I was not able to perfectly match everything using Semantic UI, I think that my copy looked reasonably close to the original Sanrio website.
 
 Link to Repo: <a href="https://github.com/saharama/sanrio-semantic-ui"><i class="large github icon"></i>sanrio-semantic-ui</a>
 
