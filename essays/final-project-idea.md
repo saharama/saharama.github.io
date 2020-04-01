@@ -19,7 +19,8 @@ To use UneartHM, the student will need to register for a new account. Once the a
 Additionally, the student will be able to open up a map of their schedule, where they can select the day of their class, and a guide will be displayed on the UHM map to show where the students will need to go for their classes.
 Admins can monitor the classes/events being added to all user’s schedules.
 
-<img class="ui medium right floated rounded image" src="../images/unearthHM-diagram.jpg">
+<img class="ui medium centered rounded image" src="../images/unearthHM-diagram.jpg">
+
 The above picture is a diagram of what we envision the UneartHM app to output based on a given user's course information.
 
 ## Mockup page ideas
