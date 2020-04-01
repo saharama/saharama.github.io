@@ -8,9 +8,8 @@ labels:
   - Meteor
 ---
 
-*Authors: Matthew Sahara, Willy Chang*
-
 # Project: UnearthHM
+*Authors: Matthew Sahara, Willy Chang*
 
 ## Overview
 *The problem:* On the first day of school, especially for students who have never been on the University of Hawaii at Manoa’s campus before, students can find it difficult and confusing to locate where their respective courses are being held.
