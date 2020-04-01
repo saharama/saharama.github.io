@@ -11,6 +11,7 @@ labels:
 
 ## Overview
 *The problem:* On the first day of school, especially for students who have never been on the University of Hawaii at Manoa’s campus before, students can find it difficult and confusing to locate where their respective courses are being held.
+
 *The solution:* The UnearthHM app will provide an intuitive and user-friendly interface to quickly find the locations of users’ respective classes and where they should head to next. Together, we can solve the mysteries of the first day of school and *unearth* the extent of great education at *UHM*.
 
 ## Approach
