@@ -1,24 +1,27 @@
 ---
 layout: essay
 type: essay
-title: "UnearthHM"
+title: "UneartHM"
 date: 2020-03-31
 labels:
   - Software Engineering
   - Meteor
 ---
 
-# Project: UnearthHM
+# Project: UneartHM
 *Authors: Matthew Sahara, Willy Chang*
 
 ## Overview
 *The problem:* On the first day of school, especially for students who have never been on the University of Hawaii at Manoa’s campus before, students can find it difficult and confusing to locate where their respective courses are being held.
-*The solution:* The UnearthHM app will provide an intuitive and user-friendly interface to quickly find the locations of users’ respective classes and where they should head to next.
+*The solution:* The UnearthHM app will provide an intuitive and user-friendly interface to quickly find the locations of users’ respective classes and where they should head to next. Together, we can solve the mysteries of the first day of school and *unearth* the extent of great education at *UHM*.
 
 ## Approach
-To use UnearthHM, the student will need to register for a new account. Once the account is created, the student will be able to add the courses they will be taking and these courses will be listed on a weekly calendar for the student to see. The students will be able to edit and add other events to this weekly calendar as well.
+To use UneartHM, the student will need to register for a new account. Once the account is created, the student will be able to add the courses they will be taking and these courses will be listed on a weekly calendar for the student to see. The students will be able to edit and add other events to this weekly calendar as well.
 Additionally, the student will be able to open up a map of their schedule, where they can select the day of their class, and a guide will be displayed on the UHM map to show where the students will need to go for their classes.
 Admins can monitor the classes/events being added to all user’s schedules.
+
+<img class="ui medium right floated rounded image" src="../images/unearthHM-diagram.jpg">
+The above picture is a diagram of what we envision the UneartHM app to output based on a given user's course information.
 
 ## Mockup page ideas
 Some possible mockup pages include:
