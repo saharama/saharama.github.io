@@ -1,14 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "UneartHM"
+title: "Project: UneartHM"
 date: 2020-03-31
 labels:
   - Software Engineering
   - Meteor
 ---
-
-# Project: UneartHM
 *Authors: Matthew Sahara, Willy Chang*
 
 ## Overview
