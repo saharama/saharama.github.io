@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: True
-title: Deviants or Deviation?
+title: Standard Deviants
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-03
 labels:
