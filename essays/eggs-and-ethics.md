@@ -7,7 +7,10 @@ title: Egg-Thick or Ethics?
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
 labels:
-  - Ethics
+  - Code of Ethics
+  - Software
+  - Privacy
+  - Integrity
 ---
 
 ## Software engineering to me
