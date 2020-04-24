@@ -17,9 +17,7 @@ labels:
 ## Scrambled Egg-Is-Thick or Eth-ics?
 Back in the day, I used to be a Boy Scout. I attended many hikes, service projects, and camps. Eventually I became an Eagle Scout. The catch is that I was one of the few Eagle Scouts that absolutely hated eggs! I have always despised how bland, dry, and chewy the scrambled eggs were, especially at Boy Scout camps when the new kids were cooking! At first, I had to eat them in little chunks, gagging after every spoonful. As I grew older, I eventually began to recognize two things. First, I could smother eggs with ketchup and salt to avoid both the traumatic memories and the awful taste. Secondly, I acknowledged them as an essential evil—eggs help to fill you up and give you energy to tackle a busy, stressful day.
 
-In many cases, I find eggs to be like ethics. While eggs are good and ethics are evil, they have a lot in common. Both may tend to make individuals uncomfortable, but they are necessary for a good, productive, and fair society. In all seriousness, ethics in the context of software engineering are essential as our developing society becomes increasingly dependent on the automation and assistance provided by computers. To me,  As displayed in the case studies mentioned in the next section,
-
-You should begin by discussing, in your own words, what you think “ethics” means in the context of software engineering.
+In many cases, I find eggs to be like ethics. Both may tend to make individuals uncomfortable, but they are necessary for a good, productive, and fair society. In all seriousness, ethics in the context of software engineering are essential as our developing society becomes increasingly dependent on the automation and assistance provided by computers. To me, ethics in software engineering means to both be technically proficient in the work that one produces, and to minimize related risks. Continued development of technical proficiency is a must, but a software engineer also needs to think about the physical, mental, and social implications of their work. As displayed in the case studies mentioned in the next section, we find that software can be used for morally controversial issues and decisions. In software engineering, we must recognize conflicts of interests and operate in the best interest of the world as a whole.
 
 <img class="ui huge centered rounded image" src="../images/ethics-droneSafety-cropped.jpg">
 
@@ -32,10 +30,4 @@ As the author explains his or her experience with a deceptive project and expres
 
 <img class="ui large right floated rounded image" src="../images/ethics-animalXing.jpg">
 
-Finally, present your conclusions: what is your personal opinion as to the ethical stance to be taken?
-
-Let's be real here. Many people dread the days after Easter, for those are the melancholy days where we must consume all of the eggs that children dyed on the day prior. In the same way, many people find a code of ethics to be a hindrance to their work. On the contrary, a code of ethics serves as a guideline as basis for good moral decisions in engineering.
-
-There will always be some "egg" heads who
-
-foundation 4: making a positive impact on the world
+Let's be real here. Many people dread the days after Easter, for those are the melancholy days where we must consume all of the eggs that kids dyed on the day prior. In the same way, many people find a code of ethics to be a hindrance to their work. Some "egg" heads may simply find it a hassle to think about such things. Just as we need to eat all of the leftover dyed eggs, software engineers must consider and minimize potential risks, social complications, and the privacy and well-being of each living thing. By doing so, we can increase the quality of life for people around the world.
