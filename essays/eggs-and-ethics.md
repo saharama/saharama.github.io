@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Egg-Thick or Ethics?
+title: Eggs and Ethics
 
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
@@ -11,6 +11,7 @@ labels:
   - Software
   - Privacy
   - Integrity
+  - Accountability
 ---
 
 ## Software engineering to me
