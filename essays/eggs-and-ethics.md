@@ -28,6 +28,6 @@ The author expresses guilt knowing that his or her work contributed to the death
 
 ## The Days After Easter
 
-<img class="ui large right floated rounded image" src="../images/ethics-animalXing.jpg">
+<img class="ui large centered rounded image" src="../images/ethics-animalXing.jpg">
 
 Let's be honest. Many people dread the days after Easter, for those are the melancholy days where we must consume all of the eggs that kids dyed on the day prior. In the same way, many people find a code of ethics to be a hindrance to their work. Some "egg" heads may simply find it a hassle to think about such things. Just as we need to eat all of the leftover dyed eggs, software engineers must consider and minimize potential risks, social complications, and the privacy and well-being of each living thing. By doing so, we can increase the quality of life for people around the world.
