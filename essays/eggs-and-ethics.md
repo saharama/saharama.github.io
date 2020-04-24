@@ -24,9 +24,9 @@ You should begin by discussing, in your own words, what you think “ethics” m
 <img class="ui fluid rounded image" src="../images/ethics-droneSafety.jpg">
 
 ## Situation
-In the Case Studies featured in the module, we looked at harassment via virtual applications, ethical decision making in Artificial Intelligence, and poorly defined lines in regards to privacy of data. I found the [The Code I'm Still Ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.tsjl7lkxy) to be particularly insightful to me.
+In the Case Studies featured in the module, we looked at harassment via virtual applications, ethical decision making in Artificial Intelligence, and poorly defined lines in regards to privacy of data. I found the [The Code I'm Still Ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.tsjl7lkxy) case to be particularly insightful to me. To summarize the article in short, a young software developer in a marketing firm was given the task of working on a website for a drug advertisement. The client company's specifications for the application included a quiz that, in most cases, led to the recommendation of the respective company's drug. The author explicitly notes that the website was seemed to be geared toward adolescent girls, and his project manager questioned his finished product, only to finally yield to the client's specified requests.
 
-Then, describe the situation you chose to analyze with respect to its ethical implications.
+
 
 ## The Day After Easter
 
