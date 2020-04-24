@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Eggs Thick or Eth-ics?
+title: Egg-Thick or Ethics?
 
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-23
