@@ -14,10 +14,9 @@ labels:
 
 Ever since I started to write this essay, I have found eggs quite appealing.
 
-
-<img class="ui large right floated rounded image" src="../images/ethics-droneSafety.jpg">
-
 Before starting this essay, read through the “Foundations” experiences in the Ethics module, and the two “Code of Ethics” readings.
+
+<img class="ui fluid rounded image" src="../images/ethics-droneSafety.jpg">
 
 ## Situation
 
