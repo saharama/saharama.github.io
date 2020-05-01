@@ -11,9 +11,13 @@ labels:
   - Software
 ---
 
-## Scrambled Egg-Is-Thick or Eth-ics?
-What are design patterns?
-How I have used them in my code?
+## What are design patterns? CHANGE
+
+
+## How I have used them in my code? CHANGE
+
+
+## Other Applications CHANGE
 
 For this technical essay, you will write an interesting and informative technical essay that ends up answering these two questions. By doing so, you’ll be better prepared to answer this question if it comes up in an interview.
 
