@@ -8,20 +8,16 @@ title: Patterns of Power
 date: 2020-04-30
 labels:
   - Design Patterns
-  - Software
+  - Software Engineering
+  - Power Systems
 ---
 
 ## What are design patterns? CHANGE
 
+<img class="ui medium right floated rounded image" src="https://images-na.ssl-images-amazon.com/images/I/41JIh4KMHRL._SX355_BO1,204,203,200_.jpg">
 
-## How I have used them in my code? CHANGE
+Intro/hook to title
 
-
-## Other Applications CHANGE
-
-For this technical essay, you will write an interesting and informative technical essay that ends up answering these two questions. By doing so, you’ll be better prepared to answer this question if it comes up in an interview.
-
-<img class="ui large centered rounded image" src="../images/ethics-droneSafety-cropped.jpg">
 
 Design pattern
 -name
@@ -35,5 +31,10 @@ Examples:
 -Observer
 -MVC
 
-patt-the-urn
-or george s patton
+## How I have used them in my code? CHANGE Playing with Electricity
+
+
+## A Shocking Twist
+power engineering
+
+<img class="ui medium right floated image" src="../images/pattern-power/design-power.jpg">
