@@ -29,6 +29,8 @@ Design pattern
 -solution (how everything is hooked up)
 -consequences (trade-offs)
 
+maybe dont put examples...
+
 Examples:
 -Factory:  
 -Singleton:
