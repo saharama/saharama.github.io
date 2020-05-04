@@ -14,9 +14,9 @@ summary: My team is developing a toolset to classify and profile Unmanned Aerial
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/uas-david.JPG">
-  <img class="ui image" src="../images/uas-wireshark.JPG">
-  <img class="ui image" src="../images/uas-main.JPG">
+  <img class="ui image" src="../images/uas/uas-david.JPG">
+  <img class="ui image" src="../images/uas/uas-wireshark.JPG">
+  <img class="ui image" src="../images/uas/uas-main.JPG">
 </div>
 
 <hr>
@@ -27,7 +27,7 @@ With Kali Linux, I use the aircrack-ng suite to capture wireless network traffic
 
 Last semester, we were introduced to the Netzob library for help with interpretation and reverse engineering of wireless packets. My team was responsible for modifying Python scripts for statistical analysis of wireless data following specified wireless protocols.
 
-We are currently analyzing trends in the collected data in network Layers 1, 2, 3. 
+We are currently analyzing trends in the collected data in network Layers 1, 2, 3.
 
 It was interesting, to me, how this project and my former part-time job in the UH Data Center would end up falling hand-in-hand. I feel like my part-time job helped to give me a firm, physical view of networking. I also learned a lot about networks from my coworkers, who would spend time helping me to understand concepts like the OSI-model. Before you can make a network secure, you need to truly understand how it works, first.
 
@@ -43,4 +43,3 @@ The main goal was to build a firm foundation of wireless networking knowledge to
 For my senior design project, I worked as part of a team to develop a proof-of-concept UAS classifier. We managed to build wireless profiles for two drones, and we were able to distinguish between the two based on sets of wireless data collection samples.
 
 Project Repo: <a href="https://github.com/saharama/UAVClassifier"><i class="large github icon "></i>saharama/UAVClassifier/</a>
-
