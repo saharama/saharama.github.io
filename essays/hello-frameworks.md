@@ -42,6 +42,6 @@ Link to Repo: <a href="https://github.com/saharama/sanrio-semantic-ui"><i class=
 
 ## Friend or Foe?
 
-<img class="ui medium right floated rounded image" src="../images/helloKitty-friends.jpg">
+<img class="ui medium right floated rounded image" src="../images/helloFrameworks/helloKitty-friends.jpg">
 
 Like the countless other software development tools in this class, I once again had a problematic start with the Semantic UI framework. As the week progressed and I became more familiar, I found Semantic UI to be incredibly helpful. Once I developed the correct way of thinking, Semantic UI helped to expedite my web development speed significantly. Just as my replicated website was not a perfect replicate, the two "Hello Kitties" in the adjacent picture are not perfect copies either! I was happy to be able to replicate the Hello Kitty by Sanrio website, as it was an old childhood character that made me happy. Hello Kitty helped me to say Hello to Frameworks.

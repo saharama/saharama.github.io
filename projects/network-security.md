@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uas-banquet.jpg
+image: images/uas/uas-banquet.jpg
 title: Network Profiling and Protocol Reverse Engineering
 permalink: projects/uas-security
 # All dates must be YYYY-MM-DD format!

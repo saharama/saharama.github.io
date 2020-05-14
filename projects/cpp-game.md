@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cpp-gameWin.png
+image: images/cpp/cpp-gameWin.png
 title: Just Another Love Story
 permalink: projects/cpp-game
 # All dates must be YYYY-MM-DD format!

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/microwave-filterAngle.jpg
+image: images/microwave/microwave-filterAngle.jpg
 title: Microwave Circuit Design and Fabrication
 permalink: projects/microwave
 # All dates must be YYYY-MM-DD format!
