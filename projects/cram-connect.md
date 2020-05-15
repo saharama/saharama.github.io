@@ -25,6 +25,8 @@ Cram Connect Github Organizational Page:
 
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-dataModel.jpg">
 
+![](https://bowfolios.github.io/#data-model)
+
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-editProfile.jpg">
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-favorites.jpg">
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-search.jpg">
