@@ -57,7 +57,19 @@
       "keywords": [
         "C",
         "C++",
-        "Python"
+        "Python",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "Semantic-UI",
+        "React",
+        "Meteor"
       ]
     },
     {
@@ -67,9 +79,28 @@
         "Windows 10",
         "Kali Linux",
         "Wireshark",
-        "Aircrack-ng",
         "Git/GitHub",
-        "Microwave Office (MWO)"
+        "Aircrack-ng"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "AWR Microwave Office",
+        "AWR AXIEM"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": [
+        "Multimeter",
+        "Oscilloscope",
+        "Function Generator",
+        "Soldering",
+        "Vector Network Analyzer"
       ]
     }
   ],
