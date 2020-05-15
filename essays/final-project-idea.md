@@ -21,7 +21,7 @@ Additionally, the student will be able to open up a map of their schedule, where
 
 Admins can monitor the classes/events being added to all user’s schedules.
 
-<img class="ui medium centered rounded image" src="../images/unearthHM-diagram.jpg">
+<img class="ui medium centered rounded image" src="../images/final-project-idea/unearthHM-diagram.jpg">
 
 The above picture is a diagram of what we envision the UneartHM app to output based on a given user's course information.
 

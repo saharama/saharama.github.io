@@ -3,6 +3,7 @@ layout: essay
 type: essay
 published: false
 title: I Need Another Cup of Java-script!
+# Essay 1 Images
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
 labels:
@@ -25,13 +26,13 @@ Coming from a background in C and C++, the syntax in Javascript was relatively e
 
 ## My Software Marathon Training
 
-<img class="ui medium right floated rounded image" src="../images/essay1-climb.jpg">
+<img class="ui medium right floated rounded image" src="../images/essay1/essay1-climb.jpg">
 
 I can climb that tall pole while hanging on for dear life. I can run 2-miles in 14-minutes. However, these "athletic" Workouts of the Day (WODs) have me out of breath, more than ever before. The practice WODs helped to get me much more comfortable coding in Javascript, while under a time limit, and consequently, under pressure. This was good practice for the actual WOD situation, and I felt that I was well prepared in terms of working under pressure.
 
 In high school, I was in the Air Riflery program. When you are at the firing line, you must be as relaxed as possible when you aim and shoot the pellet at your target. At times, you start spacing out and getting frustrated. The best thing to do at that time is to take a step back, breathe, and collect yourself. The practice WODs reminded me to simply take a deep breath while in the midst of frustration and break the problem down into different layers and pieces.
 
-The practice WODs, especially the bWOD, showed that there were large gaps in my ability to implement certain structures and algorithms to solve specific problems. In C++, most of my labs were focused on stressing object-oriented features of the respective language, so I was slightly lacking in experience related to standard "cut-and-paste" methods of creating and applying common functions. 
+The practice WODs, especially the bWOD, showed that there were large gaps in my ability to implement certain structures and algorithms to solve specific problems. In C++, most of my labs were focused on stressing object-oriented features of the respective language, so I was slightly lacking in experience related to standard "cut-and-paste" methods of creating and applying common functions.
 
 ## WOD Preparation
 
@@ -69,11 +70,8 @@ Later in the day, I was talking to some of my Computer Engineering friends. It s
 
 ## My Last Cup of Joe
 
-<img class="ui medium left floated rounded image" src="../images/essay1-joe.jpg">
+<img class="ui medium left floated rounded image" src="../images/essay1/essay1-joe.jpg">
 
 Overall, I find ICS314 to be a class that keeps me on my toes. It seems to be a lot of work, but the work is not too hard. I enjoy the "flipped-classroom", and it helps to keep me engaged. I am concerned about my ability to complete future WODs, specifically because I do not currently have an extensive background in program structures like my peers. It will take consistent work and a lot of time; however, success is not a sprint, it is a marathon.
 
 I will make sure to digest the syntax and associated caffiene of this useful and flexible language. I look forward to the object-oriented Javascript module next week!
-
-
-
