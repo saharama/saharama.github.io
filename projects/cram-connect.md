@@ -19,13 +19,13 @@ summary: Developed the Cram Connect website to enable UH Manoa students to find 
 
 ## Application Overview
 Cram Connect Github Organizational Page:
-![](https://cram-connect.github.io/)
+![https://cram-connect.github.io/](https://cram-connect.github.io/)
 
 ## Matt's Development Contributions
 
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-dataModel.jpg">
 
-![](https://bowfolios.github.io/#data-model)
+![https://bowfolios.github.io/#data-model](https://bowfolios.github.io/#data-model)
 
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-editProfile.jpg">
 <img class="ui medium right floated rounded image" src="../images/cram-connect/connect-favorites.jpg">
