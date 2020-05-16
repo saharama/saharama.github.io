@@ -21,7 +21,7 @@ Cram Connect Github Organizational Page:
 
 <img class="ui huge centered rounded image" src="../images/cram-connect/connect-landing.jpg">
 
-## Matt's Development Contributions
+## Matt's Slice of The Cake
 
 In our Cram Connect development, I feel that one of my biggest contributions to our project was setting up the data model. Our data model was designed in the same way as [Bowfolios data model](https://bowfolios.github.io/#data-model). Essentially, the default information for our system was based on Users and Locations and their associated individual data. We then fed this data into our system and stored it as follows. You can think of the combined collections of data, including *ProfileQualities*, *ProfileLocations*, and *LocationQualities*, as associative links between *Profile*, *Location*, and *Qualities* collections stored on the server.
 
@@ -42,7 +42,7 @@ Willy implemented the individual location page himself. I thought he did a reall
 
 In addition to these pages, I also put a lot of time into helping to make default data to be input into the system. I used Bowfolios as a guide to add an Assets JSON file to load additional default data into our system, as our original default data file, *settings.development.json*, had a size limit. We initally had problems with deploying the file, as I did not modify the initial condition to prevent the additional data file from being loaded multiple times.
 
-## Lessons Learned
+## Teamwork Makes the Dream Work
 
 I learned a lot about *Issue Driven Project Management* as our project was broken down into smaller chunks of work and divded between members. Our Github branch names corresponded to the issues or tasks that we were working on inidividually. We used a Github project board to manage our issue. They were separated and labelled under columns for *backlog*, *in progress*, and *completed*. In the image below, you can see our completed project board for the Cram Connect project.
 
