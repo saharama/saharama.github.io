@@ -7,7 +7,9 @@ permalink: projects/cpp-game
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-12
 labels:
+  - EE205
   - C++
+  - Object Oriented Programming
   - GitHub
 summary: My EE205 group developed an RPG using C++ and SFML graphics.
 ---
