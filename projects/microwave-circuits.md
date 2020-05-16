@@ -25,7 +25,7 @@ The results from our fabricated filter were very close to that of our simulation
 
 This class helped to introduce me to RF circuit design, and consequently, I joined the Liquid Metal - Vertically Integrated Project. I have been using my knowledge about microstrip transmission lines from this class to develop different RF devices such as switches and planar coil inductors. More important than the technical side of the project, this class also taught me about a problem solving technique called the HK Method. Using this method whenever I encounter an issue in life, I have learned to break down the problem into its simplest possible form and build the layers of difficulty back on, one-by-one. Dr. Shiroma and his EE473 class played a large part in shaping my problem-solving mindset as an engineering student, and I will be forever grateful.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/microwave/microwave-filterAnalysis.jpg">
   <img class="ui image" src="../images/microwave/microwave-sim.PNG">
   <img class="ui image" src="../images/microwave/microwave-solder.jpg">
