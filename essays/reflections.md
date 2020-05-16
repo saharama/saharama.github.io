@@ -22,6 +22,8 @@ I am not finished yet sorry pls spare me
 
 In the well known movie, "Mulan", the main character Mulan sees her reflection in a the pond, in the midst of an existential crisis, and asks herself, "When will my reflection show who I am inside?" In some ways, I feel like Mulan in relation to the ICS314 athletic software engineering experience. At the beginning, I was reluctant to take this class because I heard that it was a lot of work, yet the results were great. Looking back at my former self who could only code in C++ and share code primarily on Google Drive, we have come quite the long way. I have learned countless things in terms of web development, but more importantly, about fundamental software engineering concepts that I can apply to further improve other aspects of my education and research.
 
+If you are not familiar with the animated movie, Mulan, take a listen to the song *Reflection* at [https://youtu.be/lGGXsm0a5s0](https://youtu.be/lGGXsm0a5s0), as I make some significant song references thoughout this essay.
+
 ## Standing Up For Standards
 In the beginning of the movie, Mulan is largely criticized by her matchmaker who claims that she does not optimally meet any of the criteria set forth for a "perfect bride". Take a look at the following scene:
 
