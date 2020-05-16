@@ -33,6 +33,6 @@ It was interesting, to me, how this project and my former part-time job in the U
 
 For my senior design project, I worked as part of a team to develop a proof-of-concept UAS classifier. We managed to build wireless profiles for two drones, and we were able to distinguish between the two based on sets of wireless data collection samples. These results were based purely on encrypted traffic, where we looked at the timing and sizing of different characterisitc packets. In my continued work as a Research Assistant, my sub-team is now focused on examining the decrypted data trends of different drones. We have been focusing on MAVLink data parsing, as different drones package information with slight variations.
 
-After taking ICS314, we are working on transitioning to use *Agile Project Management* techniques for setting specific goals, breaking down work into tasks, and communicating much more effectively.
+After taking ICS314, we are working on transitioning to use *Agile Project Management* techniques for setting specific goals, breaking down work into tasks, and communicating much more effectively. As we already have a Github Organization, we are looking to use the convienient Kanban project board in our respective Github repository.
 
 Project Repo: <a href="https://github.com/saharama/UAVClassifier"><i class="large github icon "></i>saharama/UAVClassifier/</a>
