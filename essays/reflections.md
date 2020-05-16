@@ -16,10 +16,13 @@ If you are reading this,
 
 I am not finished yet sorry pls spare me
 
-<img class="ui large left floated rounded image" src="../images/reflections/reflections-fishing.jpg">
+<img class="ui large right floated rounded image" src="../images/reflections/reflections-fishing.jpg">
 
 ## Software Engineering Prompt
 In the well known movie, "Mulan", the main character Mulan sees her reflection in a the pond, in the midst of an existential crisis, and asks herself, "When will my reflection show who I am inside?" In some ways, I feel like Mulan in relation to the ICS314 athletic software engineering experience. At the beginning, I was reluctant to take this class because I heard that it was a lot of work, yet the results were great. Looking back at my former self who could only code in C++ and share code primarily on Google Drive, we have come quite the long way. I have learned countless things in terms of web development, but more importantly, about fundamental software engineering concepts that I can apply to further improve other aspects of my education and research.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPa0TiCuvR4?start=127" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Coding Standards
 One of the modules in this class focused on *Coding Standards*. This
