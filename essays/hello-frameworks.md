@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Hello Frameworks
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
