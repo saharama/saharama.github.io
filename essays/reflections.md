@@ -21,12 +21,12 @@ I am not finished yet sorry pls spare me
 ## Software Engineering Prompt
 In the well known movie, "Mulan", the main character Mulan sees her reflection in a the pond, in the midst of an existential crisis, and asks herself, "When will my reflection show who I am inside?" In some ways, I feel like Mulan in relation to the ICS314 athletic software engineering experience. At the beginning, I was reluctant to take this class because I heard that it was a lot of work, yet the results were great. Looking back at my former self who could only code in C++ and share code primarily on Google Drive, we have come quite the long way. I have learned countless things in terms of web development, but more importantly, about fundamental software engineering concepts that I can apply to further improve other aspects of my education and research.
 
+## Coding Standards
+In the beginning of the movie, Mulan is largely criticized by her matchmaker who claims that she does not optimally meet any of the criteria set forth for a "perfect bride". Take a look at the following scene:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bPa0TiCuvR4?start=127" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Coding Standards
-One of the modules in this class focused on *Coding Standards*. This
-- Coding standards
+One of the modules in this class focused on *Coding Standards*. Just like how the matchmaker points out Mulan's flaws in an earlier part of the video, our tool ESLint points out my flaws when I code in Javascript. Essentially, a lint is a tool that acts like a spellcheck, but for code. In addition to error-checking, the ESLint tool also helps to standardize how we write code and checks for certain stylistic qualities, including spaces. This is similar to if Microsoft Word flagged sentences missing the Oxford comma, or if someone put two spaces after a period between sentences. ESLint is a great tool to help aid software developers and vastly increase the readability of code. I also learned that there is lint software available for a muiltitude of languages, so I hope to continue my relationship with lint in the future.
 
 ## Index of Refraction
 - functional programming
