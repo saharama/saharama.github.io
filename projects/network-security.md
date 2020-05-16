@@ -25,7 +25,7 @@ As an Undergraduate Research Assistant for Dr. Yingfei Dong, I am part of a team
 
 In previous semesters with this project, I gained familiarity with the Aircrack-ng suite and related tools using the Kali Linux operating system. With guidance I was able to crack WEP, WPA/2 encryption with aircrack-ng suite. In addition, we bypassed hidden SSID and MAC filtering. Most importantly, we used different flaws in wireless protocol to gain access to controlled networks. This includes well known Wi-Fi encryption attacks including Cafe Latte, Man-in-the-Middle, Hirte, Mis-Association/Honeypot attacks. The main goal was to build a firm foundation of wireless networking knowledge to later be implemented in our senior design projects. Now, using Kali Linux, I use the aircrack-ng suite to capture wireless network traffic from various UASs that support WPA2 encryption. We can examine more information about the network traffic in the form of packets with the Wireshark application.
 
-<img class="ui large centered rounded image" src="../images/uas/uas-safety.jpg">
+<img class="ui large centered rounded image" src="../images/uas/uas-shaka.jpg">
 
 In the first semester my senior project, we were introduced to the Netzob and Scapy library for help with interpretation and reverse engineering of wireless packets. My team was responsible for modifying Python scripts for statistical analysis of wireless data following specified wireless protocols. We began to analyze trends in the collected data in network Layers 1, 2, 3.
 
