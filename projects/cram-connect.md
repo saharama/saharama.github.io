@@ -12,19 +12,14 @@ labels:
   - Semantic React
   - ICS314
 
-summary: Cram Connect website enables UH Manoa students to find their best fit study spot on or around campus! Used issue driven project management, as a team of 4, to develop the web application. Implemented using Meteor and React.
+summary: Cram Connect website enables UH Manoa students to find their best fit study spot on or around campus! Used issue driven project management, as a team of 4, to develop the web application using Meteor and React.
 ---
-
-
 
 ## Application Overview
 Cram Connect Github Organizational Page:
 [https://cram-connect.github.io/](https://cram-connect.github.io/)
 
 <img class="ui huge centered rounded image" src="../images/cram-connect/connect-landing.jpg">
-
-
-
 
 ## Matt's Development Contributions
 
