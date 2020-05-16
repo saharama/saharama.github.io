@@ -12,15 +12,11 @@ labels:
   - Reflections
 ---
 
-If you are reading this,
-
-I am not finished yet sorry pls spare me
-
 ## Let's Get Down To Business
 
 <img class="ui medium right floated rounded image" src="../images/reflections/reflections-fishing.jpg">
 
-In the well known movie, "Mulan", the main character Mulan sees her reflection in a the pond, in the midst of an existential crisis, and asks herself, "When will my reflection show who I am inside?" In some ways, I feel like Mulan in relation to the ICS314 athletic software engineering experience. At the beginning, I was reluctant to take this class because I heard that it was a lot of work, yet the results were great. Looking back at my former self who could only code in C++ and share code primarily on Google Drive, we have come quite the long way. I have learned countless things in terms of web development, but more importantly, about fundamental software engineering concepts that I can apply to further improve other aspects of my education and research.
+In the well known movie, "Mulan", the main character Mulan sees her reflection in a the pond, in the midst of an existential crisis, and asks herself, "When will my reflection show who I am inside?" The picture to the upper-right depicts me also staring into the water. In some ways, I feel like Mulan in relation to the ICS314 athletic software engineering experience. At the beginning, I was reluctant to take this class because I heard that it was a lot of work, yet the results were great. Looking back at my former self who could only code in C++ and share code primarily on Google Drive, we have come quite the long way. I have learned countless things in terms of web development, but more importantly, about fundamental software engineering concepts that I can apply to further improve other aspects of my education and research.
 
 If you are not familiar with the animated movie, Mulan, take a listen to the song *Reflection* at [https://youtu.be/lGGXsm0a5s0](https://youtu.be/lGGXsm0a5s0){:target="\_blank"}, as I make some significant song references thoughout this essay.
 
@@ -31,10 +27,8 @@ In the beginning of the movie, Mulan is largely criticized by her matchmaker who
 
 One of the modules in this class focused on *Coding Standards*. Just like how the matchmaker points out Mulan's flaws in an earlier part of the video, our tool ESLint points out my flaws when I code in Javascript. Essentially, a lint is a tool that acts like a spellcheck, but for code. In addition to error-checking, the ESLint tool also helps to standardize how we write code and checks for certain stylistic qualities, including spaces. This is similar to if Microsoft Word flagged sentences missing the Oxford comma, or if someone put two spaces after a period between sentences. ESLint is a great tool to help aid software developers and vastly increase the readability of code. I also learned that there is lint software available for a muiltitude of languages, so I hope to continue my relationship with lint in the future.
 
-## Index of Refraction
-In physics, an index of refraction is a value that characterizes the reflectivity of a certain material. Basically, if I put water and maple syrup under a light, different amounts of light would be reflected off of and transmitted through each liquid.
-- functional programming
-- User Interface Frameworks
+## Short Cuts
+In order to save her senile father, Mulan dresses like a man and joins the Chinese army in his place. She cuts her hair short in order to appear more manly. Similarly, *functional programming* helps us to take a *short cut* with programming. *Functional programming* describes the process of coding by using premade functions to increase coding efficiency and readablility. It allows us to think and view code from a higher level. While it takes some time and a lot of thinking to get use to, function programming ends up making a difference in the long run. I speak from experience, as I used a lot of functional programming, using many of the common Underscore.js library functions. In the future, I hope to continue using Underscore.js in any small web development projects that I take on. This higher order of thinking is very similar to MATLab functions and certain Python features. In the same way, I hope to continue to efficiently use functional programming to enhance my work in future coding projects.
 
 ## I'll Make a Man(agement) Out of You
 A vital part of this class turned out to *Agile Project Management*, which essentially is the concept of breaking down the project into smaller tasks and systematically tackling each task to aid with efficiency of development and quality control. In our project, we used a certain style referred to as *Issue Driven Project Management*, in which we used a Kanban project board to manage issues or tasks that were to be discussed and determined during team meetings. A Kanban board has three columns that consist of backlogged, in progress, and completed tasks. Note that additional columns can be added for priority organization. When taking on an issue, we move it to the *in progress* column, then we move it to *completed* after we are finished. In our implementation of *Issue Driven Project Management*, we would do work in separated branches corresponding to each issue number for organization. Each issue was defined to be approximately 72 hours of work, to breakdown the workload and keep the sections of work small enough that we could build off of each others' work in a timely manner.
