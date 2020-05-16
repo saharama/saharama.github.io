@@ -9,8 +9,8 @@ date: 2019-04-19
 labels:
   - Microwave Office
   - Low-Pass Filter
-
-summary: Designed and fabricated a microstrip stepped low-pass filter for EE473 Microwave Engineering.
+  - Microstrip Fabrication
+summary: Our team of 3 designed and fabricated a microstrip stepped low-pass filter for EE473 Microwave Engineering. The filter had a 0.5 dB passband ripple with a cutoff frequency of 4 GHz and an attenuation of -25 dB at 6 GHz.
 ---
 
 In my *EE473 Microwave Engineering* class, I did many microwave circuit simulations on software called AWR Microwave Office. I looked at the scattering parameters (s-parameters), which correspond to the electromagnetic waves that enter and leave the individual circuit elements.
