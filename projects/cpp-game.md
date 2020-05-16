@@ -11,12 +11,11 @@ labels:
   - C++
   - Object Oriented Programming
   - GitHub
-summary: My EE205 group developed an RPG using C++ and SFML graphics.
+summary: My EE205 group developed an RPG using C++ and SFML graphics. We used the event-based library of SFML and object-oriented progamming techniques to make a fun game with various states and levels.
 ---
 <hr>
 
 My group of three used C++ and object-oriented techniques to make a Role-Playing Game (RPG). We implemented the SFML library for simple game graphics and audio.
-
 
 <img class="ui image" src="{{ site.baseurl }}/images/cpp/cpp-title.png">
 
