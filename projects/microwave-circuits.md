@@ -17,7 +17,7 @@ In my *EE473 Microwave Engineering* class, I did many microwave circuit simulati
 
 Our team worked together to collectively design three types of microstrip filters: Stubbed Low-pass, Stepped Low-pass, and Coupled Band-pass. In layman's terms, low-pass filters only allow lower frequency signals to pass through them, while band-pass filters only allow a certain central range of frequencies to be let through. Focusing on the physical shapes and qualities of these filters in our simulations, we had to account for the expected discontinuities of our proposed circuits. In microstrip circuit design, certain parts of the copper appear longer than they actually are, due to the fringing electric fields in the general topology. Based on our compensated values and calculations, we decided that the stepped low-pass filter would be the best circuit for our group to make.
 
-<img class="ui large centered rounded image" src="../images/microwave/microwave-solder2.jpg">
+<img class="ui medium right floated rounded image" src="../images/microwave/microwave-solder2.jpg">
 
 One of the highlights of this class was being able to fabricate a filter. A filter in electronics will stop all signals from being received, except those at a certain frequency. By using copper tape through the *RECiP* technique developed at UH Manoa, we cut our filter to the specifications we designed and mounted the copper on a substrate. We then soldered on SMA connectors for frequency (signal) analysis with the vector network analyzer.
 
@@ -31,5 +31,6 @@ This class helped to introduce me to RF circuit design, and consequently, I join
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/microwave/microwave-filterAnalysis.jpg">
   <img class="ui image" src="../images/microwave/microwave-sim.PNG">
-  <img class="ui image" src="../images/microwave/microwave-solder.jpg">
 </div>
+
+<img class="ui large rounded image" src="../images/microwave/microwave-solder.jpg">
