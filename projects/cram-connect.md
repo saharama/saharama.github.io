@@ -15,11 +15,16 @@ labels:
 summary: Cram Connect website enables UH Manoa students to find their best fit study spot on or around campus! Used issue driven project management, as a team of 4, to develop the web application. Implemented using Meteor and React.
 ---
 
-<img class="ui huge centered rounded image" src="../images/cram-connect/connect-landing.jpg">
+
 
 ## Application Overview
 Cram Connect Github Organizational Page:
 [https://cram-connect.github.io/](https://cram-connect.github.io/)
+
+<img class="ui huge centered rounded image" src="../images/cram-connect/connect-landing.jpg">
+
+
+
 
 ## Matt's Development Contributions
 
@@ -34,17 +39,20 @@ Using this data model, I was able to implement an Edit Profile page, which would
 I later took on the responsiblity of creating and developing the favorites page.
 <img class="ui huge centered rounded image" src="../images/cram-connect/connect-favorites.jpg">
 
-As another team member was unable to complete the search page, due to covid19 and family related measures, I worked with Willy to complete the base functionality and appearance of the search page. Personally, I was able to debug code and speed up the process by quickly identifying problemantic spots, and I then clearly communicated the specific issues to my group. For instance, we were passing in *location* to a Card.Group component, which would help us to show all of the cards. However, I later was able to understand that **location** is a predefined property and passes intrinsic data, including *pathname, search, hash, and state*. Below, you can take a look at the fruits of our labor.
+As another team member was unable to complete the search page, due to covid19 and family related measures, I worked with Willy to complete the base functionality and appearance of the search page. Personally, I was able to debug code and speed up the process by quickly identifying problemantic spots, and I then clearly communicated the specific issues to my group. For instance, we were passing in *location* to a Card.Group component, which would help us to show all of the cards. However, I later was able to understand that [location](https://medium.com/@pshrmn/a-little-bit-of-history-f245306f48dd) is a predefined property and passes intrinsic data, including *pathname, search, hash, and state*. Below, you can take a look at the fruits of our labor.
 <img class="ui huge centered rounded image" src="../images/cram-connect/connect-search.jpg">
 
 Willy implemented the individual location page himself. I thought he did a really good job, so I wanted to share that here, too.
 <img class="ui huge centered rounded image" src="../images/cram-connect/connect-location.jpg">
 
-also loaded the assets file/conditions
+In addition to these pages, I also put a lot of time into helping to make default data to be input into the system. I used Bowfolios as a guide to add an Assets JSON file to load additional default data into our system, as our original default data file, *settings.development.json*, had a size limit. We initally had problems with deploying the file, as I did not initially modify the condition to prevent the additional data file from being loaded multiple times.
 
 ## Lessons Learned
 
-- teamwork
-- efficient use of project board
-- make issues smaller
-- split work up and make sure overlapping parts are covered
+I learned a lot about *Issue Driven Project Management* as our project was broken down into smaller chunks of work and divded between members. Our Github branch names corresponded to the issues or tasks that we were working on inidividually. We used a Github project board to manage our issue. They were separated and labelled under columns for *backlog*, *in progress*, and *completed*. In the image below, you can see our completed project board for the Cram Connect project.
+
+<img class="ui huge centered rounded image" src="../images/cram-connect/connect-kanban.jpg">
+
+In our experience this semester, we learned the value of teamwork, especially having to fight the logisitical and personal issues many of us faced from the COVID19 pandemic situation. We gladly helped each other out when needed, and we generally made up for each other's shortcomings. In addition, there were some communication issues within our team, especially with issues that overlapped and consequently, did not get done in a timely manner. We were able to gradually work on our communication problems throughout the duration of our project, and I feel that we definitely improved. This was quite the learning experience, especially with the implementation of online classes. This was definitely a project and a semester to remember!
+
+<a href="https://github.com/cram-connect/cram-connect"><i class="large github icon "></i>Cram Connect Repo Link</a>
