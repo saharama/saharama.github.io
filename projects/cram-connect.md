@@ -31,7 +31,7 @@ Below is a diagram of the data model that I implemented for Cram Connect. Althou
 Using this data model, I was able to implement an Edit Profile page, which would use our new data model and allow the user to input information. The Preferences (associated qualities) and Favorite Spots (associated locations) allow the user to pick from a MultiSelect dropdown to choose their preferences. In addition, I used Sweet Alert to aid in the process and confirmation of new profile image URLs.
 <img class="ui large centered rounded image" src="../images/cram-connect/connect-editProfile.jpg">
 
-I later took on the responsiblity of fixing the favorites page.
+I later took on the responsiblity of creating and developing the favorites page.
 <img class="ui large centered rounded image" src="../images/cram-connect/connect-favorites.jpg">
 
 As another team member was unable to complete the search page, due to covid19 and family related measures, I worked with Willy to complete the base functionality and appearance of the search page. Personally, I was able to debug code and speed up the process by quickly identifying problemantic spots, and I then clearly communicated the specific issues to my group. For instance, we were passing in *location* to a Card.Group component, which would help us to show all of the cards. However, I later was able to understand that **location** is a predefined property and passes intrinsic data, including *pathname, search, hash, and state*. Below, you can take a look at the fruits of our labor.
