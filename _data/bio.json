@@ -111,7 +111,7 @@
       "studyType": "B.S.",
       "startDate": "2016-08-22",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.39",
       "courses": [
       ]
     }
@@ -128,6 +128,18 @@
         "Co-leads a team of 6 students in drone network-traffic analysis research",
         "Helps to guide new students in basic wireless network security penetration techniques",
         "Collects drone communication data and analyzes characteristic data trends using Python3"
+      ]
+    },
+    {
+      "company": "Burns & McDonnell Engineering Company",
+      "position": "Electrical Department Intern (Returning)",
+      "website": "https://www.burnsmcd.com",
+      "startDate": "2019-06-08",
+      "endDate": "2019-08-07",
+      "summary": "Returning intern in the Electrical Department for the Aviation and Federal group.",
+      "highlights": [
+        "Backchecked lighting calcs, panelboard schedules, motor sizes, and electrical drawings",
+        "Produced typical elevator details in accordance with the UFC and NEC requirements"
       ]
     },
     {
