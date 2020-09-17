@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://www2.hawaii.edu/~yaozheng/projects/physec_chan_ran_orth_blnd/images/02_rotating_antenna.JPG
+image: images/microwave/microwave-filterAngle.jpg
 title: Wireless Lab
 permalink: projects/wireless-lab
 # All dates must be YYYY-MM-DD format!
