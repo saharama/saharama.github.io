@@ -29,18 +29,18 @@
   },
   "interests": [
     {
+      "name": "Wireless Communications",
+      "keywords": [
+          "RF",
+          "Microwave",
+          "Electronics"
+      ]
+    },
+    {
       "name": "Power Systems",
       "keywords": [
         "Microgrids",
         "Renewable Energy"
-      ]
-    },
-    {
-      "name": "Wireless Communication",
-      "keywords": [
-          "RF",
-          "Microwave",
-          "Circuit Design"
       ]
     },
     {
@@ -58,38 +58,18 @@
         "C",
         "C++",
         "Python",
-        "HTML",
-        "CSS",
         "Javascript"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "level": "2",
-      "keywords": [
-        "Semantic-UI",
-        "React",
-        "Meteor"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Windows 10",
-        "Kali Linux",
-        "Wireshark",
-        "Git/GitHub",
-        "Aircrack-ng"
       ]
     },
     {
       "name": "Software",
       "level": "",
       "keywords": [
-        "MATLAB",
+        "Ansys HFSS",
         "AWR Microwave Office",
-        "AWR AXIEM"
+        "Wireshark",
+        "Aircrack-ng",
+        "Dialux"
       ]
     },
     {
@@ -132,14 +112,16 @@
     },
     {
       "company": "Burns & McDonnell Engineering Company",
-      "position": "Electrical Department Intern (Returning)",
+      "position": "Electrical Department Intern",
       "website": "https://www.burnsmcd.com",
-      "startDate": "2019-06-08",
-      "endDate": "2019-08-07",
-      "summary": "Returning intern in the Electrical Department for the Aviation and Federal group.",
+      "startDate": "2019-05-29",
+      "endDate": "2020-08-09",
+      "summary": "Intern in the Electrical Department for the Aviation and Federal group.",
       "highlights": [
-        "Backchecked lighting calcs, panelboard schedules, motor sizes, and electrical drawings",
-        "Produced typical elevator details in accordance with the UFC and NEC requirements"
+        "Prepared duct bank details and grounding diagram for medium voltage switchgear",
+        "Updated and reviewed one-line diagram with medium and low voltage cables for microgrid",
+        "Designed controls one-line and network architecture details for SCADA monitoring system",
+        "Backchecked lighting calcs, panelboard schedules, motor sizes, and electrical drawings"
       ]
     },
     {
@@ -147,12 +129,12 @@
       "position": "Undergraduate Teaching Assistant",
       "website": "http://www.ee.hawaii.edu",
       "startDate": "2020-01-13",
-      "endDate": "Present",
-      "summary": "Facilitates one section of an introductory programming course in C.",
+      "endDate": "2020-05-14",
+      "summary": "Facilitated one section of an introductory programming course in C.",
       "highlights": [
-        "Leads class discussions and examples on important C concepts",
-        "Holds weekly office hours to tutor students regarding C programming and Unix",
-        "Grades and provides constructive feedback to students on laboratory assignments"
+        "Led class discussions and examples on important C concepts",
+        "Held weekly office hours to tutor students regarding C programming and Unix",
+        "Graded and provides constructive feedback to students on laboratory assignments"
       ]
     },
     {
@@ -166,31 +148,6 @@
         "Installed network devices, equipment, and connections throughout the data centers",
         "Used data center management software to keep track of network devices and connections",
         "Managed return merchandise authorization (RMA) cases for faulty electronics"
-      ]
-    },
-    {
-      "company": "Burns & McDonnell Engineering Company",
-      "position": "Electrical Department Intern",
-      "website": "https://www.burnsmcd.com",
-      "startDate": "2019-05-29",
-      "endDate": "2019-08-16",
-      "summary": "Intern in the Electrical Department for the Aviation and Federal group.",
-      "highlights": [
-        "Prepared duct bank details and grounding diagram for medium voltage switchgear",
-        "Updated and reviewed one-line diagram with medium and low voltage cables for microgrid",
-        "Designed controls one-line and network architecture details for SCADA monitoring system"
-      ]
-    },
-    {
-      "company": "University of Hawaii",
-      "position": "EE Grader II",
-      "website": "http://www.ee.hawaii.edu",
-      "startDate": "2019-08-20",
-      "endDate": "2019-12-14",
-      "summary": "Graded homework for EE260 Introduction to Digital Design.",
-      "highlights": [
-        "Gave constructive feedback on assignments.",
-        "Met weekly with professor to review topics and progress."
       ]
     }
   ],
@@ -213,7 +170,7 @@
       "position": "Trumpet Section Leader (2017, 2019)",
       "startDate": "2016-08-25",
       "endDate": "Present",
-      "summary": "Helps to manage over 35 trumpet players, while working as a part of a leadership team to ensure productive rehearsals.",
+      "summary": "Helped to manage over 35 trumpet players, while working as a part of a leadership team to ensure productive rehearsals.",
       "highlights": [
       ]
     }
